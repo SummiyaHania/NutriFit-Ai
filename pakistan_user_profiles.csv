@@ -1,0 +1,2501 @@
+name,age,gender,height_cm,weight_kg,activity_level,health_condition,target_goal
+Shayan,70,Female,167,75,Moderate,Diabetes,Weight Loss
+Hamza,53,Male,147,76,Active,Diabetes,Maintain
+Hoorain,42,Female,183,61,Active,Allergy: Egg,Maintain
+Anaya,73,Female,162,91,Light,Allergy: Mushroom,Weight Loss
+Dua,41,Female,150,85,Light,Diabetes,Weight Loss
+Rayyan,27,Female,165,96,Active,Allergy: Seafood,Weight Loss
+Arham,74,Male,190,113,Light,Allergy: Wheat,Maintain
+Yusra,34,Male,147,76,Moderate,Allergy: Seafood,Weight Gain
+Eesa,64,Male,159,114,Moderate,Allergy: Nuts,Weight Loss
+Huzaifa,39,Male,189,86,Sedentary,Allergy: Egg,Weight Loss
+Komal,61,Male,159,50,Active,Diabetes,Weight Loss
+Sana,33,Female,165,45,Sedentary,None,Weight Loss
+Areeba,69,Male,187,51,Light,Diabetes,Maintain
+Eman,55,Male,188,78,Moderate,None,Weight Loss
+Rabia,50,Male,156,101,Light,Allergy: Wheat,Maintain
+Kamran,71,Male,186,120,Active,Allergy: Mushroom,Weight Gain
+Salman,37,Female,174,98,Active,Allergy: Seafood,Weight Loss
+Taha,43,Female,187,55,Moderate,Diabetes,Maintain
+Ammar,52,Female,153,56,Active,Hypertension,Weight Loss
+Arham,19,Male,167,102,Light,Allergy: Wheat,Maintain
+Rehan,37,Male,160,67,Active,Hypertension,Weight Loss
+Mahnoor,39,Female,170,103,Moderate,Allergy: Nuts,Weight Gain
+Dua,54,Female,182,115,Sedentary,Diabetes,Weight Loss
+Mahad,20,Female,159,120,Sedentary,Hypertension,Weight Loss
+Hoorain,29,Male,183,50,Moderate,Hypertension,Maintain
+Fizan,51,Female,152,51,Light,Allergy: Wheat,Weight Loss
+Umer,63,Female,153,58,Sedentary,Allergy: Egg,Maintain
+Iqra,45,Female,159,77,Active,Allergy: Seafood,Weight Loss
+Ayaan,27,Female,145,39,Active,Diabetes,Weight Loss
+Usman,24,Male,176,80,Active,Diabetes,Maintain
+Mariam,71,Male,157,45,Active,Allergy: Seafood,Weight Loss
+Hina,69,Female,167,52,Active,Allergy: Seafood,Maintain
+Zara,61,Male,174,56,Active,Allergy: Seafood,Weight Loss
+Zeeshan,61,Male,162,84,Moderate,Allergy: Wheat,Weight Gain
+Ali,59,Female,161,69,Active,Diabetes,Weight Loss
+Danish,54,Male,183,64,Light,Allergy: Wheat,Weight Loss
+Bilal,70,Male,176,92,Light,Diabetes,Weight Loss
+Usman,70,Male,165,74,Sedentary,Allergy: Seafood,Weight Gain
+Abdullah,29,Female,148,58,Active,Allergy: Wheat,Weight Loss
+Arham,71,Female,164,68,Sedentary,Allergy: Nuts,Maintain
+Bilal,71,Male,162,67,Moderate,Diabetes,Weight Loss
+Ali,68,Male,179,103,Active,Allergy: Wheat,Maintain
+Saif,69,Male,173,62,Light,Allergy: Nuts,Maintain
+Nida,64,Male,174,96,Moderate,Allergy: Mushroom,Weight Gain
+Huda,27,Female,160,62,Light,Diabetes,Weight Loss
+Laiba,40,Female,158,64,Active,Allergy: Wheat,Weight Gain
+Eman,51,Male,158,56,Moderate,None,Weight Gain
+Fatima,29,Female,159,59,Light,Hypertension,Weight Loss
+Hira,23,Male,177,92,Light,Hypertension,Weight Loss
+Abdullah,59,Female,151,55,Light,Allergy: Wheat,Maintain
+Sameer,36,Male,172,83,Light,Diabetes,Weight Loss
+Yusra,59,Female,156,78,Moderate,Diabetes,Maintain
+Iqra,62,Female,161,74,Moderate,Allergy: Mushroom,Maintain
+Kamran,47,Female,149,48,Active,None,Weight Loss
+Zayan,19,Female,166,85,Sedentary,Allergy: Nuts,Maintain
+Saif,29,Male,164,55,Moderate,Allergy: Nuts,Maintain
+Eesa,57,Male,170,71,Light,Diabetes,Weight Loss
+Sarmad,20,Male,158,73,Active,Diabetes,Weight Loss
+Hafsa,38,Male,187,76,Sedentary,Allergy: Seafood,Weight Loss
+Junaid,58,Male,173,90,Sedentary,Hypertension,Weight Gain
+Kashif,72,Male,164,86,Moderate,Hypertension,Weight Loss
+Hassan,42,Male,175,70,Sedentary,Allergy: Wheat,Weight Loss
+Shahzaib,51,Male,167,71,Moderate,None,Weight Loss
+Noor,20,Female,154,46,Moderate,Allergy: Mushroom,Weight Gain
+Sameer,50,Male,178,64,Sedentary,Diabetes,Weight Loss
+Yusuf,39,Male,168,88,Moderate,Allergy: Wheat,Weight Loss
+Nida,73,Male,170,54,Moderate,Hypertension,Maintain
+Abdullah,44,Male,167,64,Active,Allergy: Seafood,Weight Loss
+Ayesha,34,Female,153,60,Sedentary,Allergy: Mushroom,Maintain
+Aiman,20,Male,169,60,Active,Allergy: Seafood,Weight Loss
+Anas,65,Female,145,63,Light,Diabetes,Weight Loss
+Adnan,52,Female,161,50,Moderate,Diabetes,Weight Loss
+Danish,36,Female,162,75,Light,Diabetes,Weight Gain
+Mariam,19,Male,160,70,Active,None,Maintain
+Noor,74,Female,158,49,Active,Allergy: Wheat,Maintain
+Rabia,75,Female,173,56,Moderate,Diabetes,Weight Loss
+Eman,35,Male,180,90,Sedentary,Diabetes,Weight Loss
+Fizan,54,Female,160,82,Active,Allergy: Seafood,Weight Loss
+Hoorain,23,Male,175,93,Moderate,Allergy: Seafood,Weight Loss
+Bilal,22,Male,179,59,Active,Allergy: Wheat,Weight Loss
+Hoorain,68,Female,152,51,Light,Diabetes,Weight Loss
+Hafsa,65,Female,168,68,Light,Allergy: Wheat,Weight Gain
+Anaya,64,Male,171,69,Moderate,Hypertension,Weight Loss
+Anas,19,Male,172,83,Moderate,None,Maintain
+Ali,24,Male,168,89,Active,Allergy: Wheat,Weight Loss
+Junaid,30,Female,166,89,Active,Allergy: Nuts,Weight Loss
+Ayaan,33,Male,164,76,Moderate,Hypertension,Weight Loss
+Fahad,74,Male,163,87,Light,Allergy: Mushroom,Weight Loss
+Komal,19,Male,176,60,Active,Allergy: Egg,Weight Loss
+Hassan,69,Female,169,55,Light,Diabetes,Maintain
+Mariam,43,Female,162,71,Sedentary,Allergy: Wheat,Weight Loss
+Huzaifa,53,Female,158,61,Light,Hypertension,Weight Loss
+Asma,74,Male,183,99,Active,Hypertension,Weight Loss
+Anaya,57,Male,175,59,Light,Allergy: Seafood,Weight Loss
+Nida,65,Male,173,57,Moderate,Allergy: Mushroom,Weight Gain
+Adnan,71,Male,172,66,Sedentary,Hypertension,Maintain
+Naveed,64,Male,171,80,Light,Allergy: Wheat,Maintain
+Hafsa,19,Female,166,61,Active,Hypertension,Weight Loss
+Sumaira,41,Female,166,78,Active,Hypertension,Weight Loss
+Dua,71,Female,155,65,Sedentary,Allergy: Mushroom,Weight Gain
+Huzaifa,45,Female,159,83,Sedentary,Allergy: Nuts,Weight Loss
+Ali,40,Female,170,88,Light,Allergy: Wheat,Maintain
+Hashir,39,Female,162,77,Moderate,Allergy: Wheat,Weight Loss
+Haris,54,Male,185,74,Light,Allergy: Egg,Maintain
+Huda,75,Female,167,65,Active,None,Maintain
+Laiba,61,Female,170,89,Light,Hypertension,Maintain
+Usama,49,Male,153,70,Moderate,Allergy: Nuts,Weight Loss
+Sarmad,65,Male,167,65,Light,Allergy: Nuts,Maintain
+Shahzaib,73,Male,157,78,Moderate,Hypertension,Weight Gain
+Rehan,67,Female,173,95,Moderate,Allergy: Egg,Maintain
+Sana,33,Female,151,61,Active,Hypertension,Weight Gain
+Sara,70,Female,155,48,Moderate,Hypertension,Maintain
+Ahmed,67,Male,175,83,Active,Allergy: Wheat,Weight Gain
+Laiba,24,Female,160,49,Light,Allergy: Wheat,Weight Loss
+Yusuf,68,Female,151,44,Moderate,Diabetes,Weight Loss
+Bilal,33,Female,151,43,Light,Hypertension,Weight Loss
+Ali,75,Female,165,59,Light,Allergy: Egg,Weight Loss
+Ali,49,Male,172,85,Moderate,Allergy: Egg,Weight Loss
+Rizwan,71,Male,160,56,Moderate,Hypertension,Weight Loss
+Farhan,52,Female,161,67,Active,Allergy: Wheat,Weight Loss
+Sana,67,Female,153,61,Moderate,Hypertension,Weight Loss
+Huzaifa,61,Male,171,67,Light,Hypertension,Weight Loss
+Roha,30,Male,162,51,Light,Diabetes,Weight Loss
+Salman,26,Female,163,55,Active,Diabetes,Weight Loss
+Kashif,33,Male,177,57,Active,Hypertension,Weight Loss
+Ayesha,19,Male,173,79,Moderate,Allergy: Egg,Maintain
+Azlan,53,Male,173,65,Active,Allergy: Mushroom,Weight Loss
+Zainab,57,Female,145,67,Light,Allergy: Wheat,Maintain
+Fahad,57,Female,167,61,Light,Allergy: Wheat,Weight Loss
+Iqra,70,Male,167,65,Light,Allergy: Seafood,Weight Loss
+Arfa,63,Male,172,79,Light,None,Weight Loss
+Laiba,47,Male,170,88,Active,Allergy: Mushroom,Weight Loss
+Komal,47,Female,158,76,Active,Allergy: Seafood,Weight Gain
+Nida,71,Female,166,68,Moderate,Hypertension,Weight Loss
+Kamran,34,Male,173,59,Moderate,Allergy: Wheat,Weight Loss
+Ali,47,Male,177,98,Light,Allergy: Wheat,Weight Loss
+Ayaan,44,Female,166,56,Light,Hypertension,Weight Gain
+Huzaifa,55,Female,165,71,Light,Hypertension,Maintain
+Ibrahim,48,Female,157,71,Moderate,Allergy: Seafood,Weight Loss
+Ayesha,51,Male,168,76,Light,Allergy: Egg,Weight Loss
+Sana,64,Male,176,63,Sedentary,Allergy: Wheat,Weight Loss
+Anas,34,Male,171,94,Moderate,Allergy: Seafood,Weight Loss
+Junaid,32,Male,167,53,Light,Allergy: Nuts,Maintain
+Huda,32,Female,169,56,Active,Allergy: Mushroom,Weight Gain
+Asma,38,Male,160,48,Light,Diabetes,Weight Gain
+Imran,54,Female,170,75,Light,Diabetes,Weight Loss
+Ayaan,37,Male,168,89,Moderate,Allergy: Wheat,Maintain
+Rayyan,24,Female,160,60,Light,Diabetes,Weight Loss
+Farhan,29,Male,171,77,Light,Diabetes,Maintain
+Huda,35,Male,175,58,Moderate,Diabetes,Weight Loss
+Shayan,68,Male,161,79,Active,Allergy: Nuts,Weight Loss
+Taha,39,Male,182,84,Active,Allergy: Egg,Weight Loss
+Talha,70,Female,154,75,Light,Diabetes,Weight Loss
+Fizan,34,Male,178,88,Light,None,Maintain
+Laiba,18,Female,160,53,Active,Diabetes,Maintain
+Eman,50,Male,171,79,Active,Diabetes,Weight Loss
+Rabia,65,Male,176,56,Sedentary,None,Weight Loss
+Kashif,41,Female,157,68,Active,Diabetes,Weight Loss
+Rehan,50,Male,169,87,Sedentary,Allergy: Seafood,Weight Loss
+Shahmeer,21,Female,159,81,Light,Allergy: Wheat,Maintain
+Areeba,73,Male,162,66,Active,Allergy: Nuts,Weight Loss
+Usman,59,Male,171,59,Light,Allergy: Egg,Weight Loss
+Hamza,30,Male,178,82,Sedentary,Hypertension,Weight Loss
+Farhan,60,Male,175,93,Moderate,Diabetes,Weight Loss
+Huda,30,Female,153,64,Active,Diabetes,Weight Gain
+Zainab,60,Female,165,51,Moderate,Allergy: Mushroom,Weight Loss
+Zubair,60,Female,165,78,Light,Diabetes,Maintain
+Anas,38,Male,171,85,Sedentary,Allergy: Wheat,Weight Gain
+Rehan,24,Female,162,66,Active,Diabetes,Maintain
+Rehan,19,Female,152,57,Moderate,Allergy: Wheat,Maintain
+Nida,69,Female,166,89,Light,Allergy: Mushroom,Maintain
+Yusra,67,Male,167,87,Light,Hypertension,Weight Loss
+Hira,24,Male,181,62,Light,Allergy: Seafood,Maintain
+Yusra,70,Male,179,85,Active,Allergy: Seafood,Weight Gain
+Hamza,50,Male,170,86,Active,Allergy: Egg,Weight Loss
+Shayan,27,Male,165,51,Active,Hypertension,Weight Loss
+Huda,46,Male,154,57,Active,Diabetes,Weight Loss
+Shahnawaz,37,Male,181,90,Light,Hypertension,Maintain
+Fahad,71,Male,168,90,Light,Diabetes,Weight Loss
+Fahad,71,Female,151,57,Active,Diabetes,Weight Loss
+Aiman,19,Male,184,61,Active,Allergy: Wheat,Weight Loss
+Usama,22,Female,161,48,Active,Allergy: Nuts,Maintain
+Shahid,72,Female,155,64,Sedentary,Hypertension,Weight Loss
+Aleena,40,Male,177,64,Sedentary,Allergy: Seafood,Weight Gain
+Eesa,35,Male,171,54,Active,None,Maintain
+Saad,38,Male,168,88,Light,Allergy: Mushroom,Maintain
+Saad,74,Male,173,94,Sedentary,Diabetes,Weight Loss
+Anaya,56,Female,159,68,Light,Allergy: Egg,Weight Loss
+Eman,47,Female,159,81,Sedentary,Diabetes,Weight Loss
+Zainab,26,Male,170,54,Active,Diabetes,Weight Loss
+Dua,23,Male,171,74,Sedentary,Diabetes,Weight Gain
+Maryam,20,Male,180,100,Light,Allergy: Wheat,Maintain
+Hina,68,Male,177,89,Moderate,Allergy: Nuts,Weight Loss
+Noor,34,Male,175,99,Light,Allergy: Egg,Weight Loss
+Noor,35,Female,155,73,Sedentary,Diabetes,Maintain
+Sumaira,46,Male,175,70,Moderate,Diabetes,Weight Loss
+Ahmed,59,Male,169,84,Active,Allergy: Wheat,Weight Loss
+Anas,42,Male,173,88,Sedentary,Allergy: Wheat,Maintain
+Arham,28,Male,177,79,Active,Allergy: Mushroom,Weight Gain
+Sumaira,75,Female,166,90,Active,Allergy: Nuts,Weight Gain
+Usama,71,Male,168,85,Active,Allergy: Egg,Weight Loss
+Sana,64,Female,167,68,Active,Diabetes,Weight Loss
+Sameer,30,Female,163,57,Active,Allergy: Mushroom,Maintain
+Anaya,29,Female,164,86,Sedentary,None,Weight Loss
+Khadija,25,Female,152,67,Light,Allergy: Wheat,Weight Loss
+Shahid,59,Male,163,82,Active,Allergy: Nuts,Maintain
+Asma,29,Female,158,65,Sedentary,Diabetes,Maintain
+Ayaan,58,Female,151,47,Light,Allergy: Wheat,Weight Gain
+Mahnoor,36,Female,150,57,Active,Allergy: Seafood,Maintain
+Sumaira,56,Female,157,81,Light,Diabetes,Maintain
+Sumaira,46,Female,148,62,Moderate,Allergy: Seafood,Weight Loss
+Shahid,67,Male,177,63,Light,Diabetes,Weight Loss
+Zainab,34,Female,163,48,Moderate,Diabetes,Weight Loss
+Yusra,50,Female,172,90,Moderate,Diabetes,Weight Loss
+Zara,20,Female,162,52,Moderate,None,Weight Loss
+Salman,46,Male,172,85,Light,Allergy: Seafood,Maintain
+Taha,57,Male,176,84,Light,Allergy: Mushroom,Weight Loss
+Hoorain,47,Male,185,66,Moderate,Diabetes,Weight Loss
+Sana,71,Female,163,74,Active,Diabetes,Maintain
+Haris,31,Female,155,63,Moderate,Allergy: Egg,Weight Loss
+Talha,47,Female,158,77,Active,Allergy: Wheat,Weight Loss
+Imran,65,Male,160,76,Light,Hypertension,Weight Loss
+Talha,21,Male,182,89,Moderate,Hypertension,Maintain
+Saif,49,Male,161,62,Light,None,Weight Loss
+Nida,69,Female,162,67,Light,Diabetes,Maintain
+Anaya,50,Female,157,69,Sedentary,Hypertension,Weight Loss
+Noor,72,Female,150,67,Light,Allergy: Wheat,Weight Loss
+Azlan,73,Female,168,70,Sedentary,Hypertension,Weight Loss
+Anaya,38,Female,164,77,Moderate,Allergy: Seafood,Weight Loss
+Aiman,25,Female,150,59,Active,Diabetes,Maintain
+Huda,66,Male,170,64,Light,Hypertension,Maintain
+Muhammad,44,Female,158,62,Moderate,None,Weight Loss
+Sarmad,27,Male,168,80,Moderate,Hypertension,Weight Loss
+Ibrahim,65,Female,145,54,Moderate,None,Maintain
+Anaya,67,Female,153,66,Moderate,Diabetes,Weight Loss
+Noman,35,Male,176,101,Active,Allergy: Seafood,Weight Loss
+Junaid,19,Female,176,96,Light,None,Weight Loss
+Sara,65,Male,171,79,Active,None,Maintain
+Ayaan,46,Male,174,69,Light,Allergy: Seafood,Maintain
+Zainab,42,Male,164,78,Sedentary,Allergy: Egg,Weight Loss
+Anas,49,Male,177,74,Moderate,Allergy: Wheat,Maintain
+Rehan,67,Female,157,65,Light,Allergy: Wheat,Maintain
+Maryam,72,Female,171,80,Moderate,Allergy: Seafood,Weight Loss
+Salman,32,Female,167,88,Moderate,Allergy: Nuts,Weight Loss
+Fizan,46,Male,188,104,Active,Diabetes,Weight Loss
+Hamza,62,Male,177,77,Light,None,Weight Loss
+Yusra,33,Male,166,70,Active,None,Maintain
+Sana,62,Female,158,67,Active,Allergy: Wheat,Maintain
+Talha,21,Female,159,71,Light,Allergy: Wheat,Weight Gain
+Ayaan,55,Female,158,52,Moderate,Allergy: Egg,Weight Loss
+Sumaira,57,Male,172,95,Moderate,Diabetes,Maintain
+Rehan,28,Male,168,78,Light,Allergy: Nuts,Weight Loss
+Nida,20,Female,165,60,Moderate,Allergy: Nuts,Maintain
+Hamza,67,Male,167,56,Moderate,Allergy: Seafood,Weight Loss
+Hoorain,33,Female,158,46,Active,Diabetes,Maintain
+Ayesha,64,Male,171,80,Light,Hypertension,Weight Loss
+Ayesha,69,Female,149,64,Active,Allergy: Wheat,Maintain
+Anas,67,Male,158,58,Sedentary,Diabetes,Weight Loss
+Saif,18,Male,167,60,Light,Diabetes,Maintain
+Hamza,36,Female,152,44,Active,Hypertension,Weight Loss
+Haris,42,Male,163,75,Active,Allergy: Seafood,Maintain
+Nida,21,Male,163,61,Light,Hypertension,Maintain
+Sumaira,41,Male,173,58,Active,None,Maintain
+Asma,61,Female,150,57,Light,Allergy: Wheat,Maintain
+Hoorain,41,Female,160,78,Active,None,Weight Loss
+Taha,64,Male,177,85,Light,Diabetes,Maintain
+Shahzaib,35,Male,166,53,Active,Diabetes,Weight Loss
+Fatima,29,Male,162,84,Moderate,Allergy: Wheat,Weight Loss
+Rayyan,32,Male,172,71,Active,Allergy: Mushroom,Weight Loss
+Mahnoor,68,Male,154,71,Light,Allergy: Seafood,Weight Loss
+Junaid,59,Male,168,91,Active,Diabetes,Weight Loss
+Abdullah,68,Male,168,90,Sedentary,Hypertension,Weight Loss
+Sameer,70,Female,154,60,Light,Allergy: Egg,Weight Loss
+Noor,28,Male,174,81,Active,Diabetes,Maintain
+Fizan,75,Male,175,85,Sedentary,Allergy: Wheat,Maintain
+Junaid,58,Female,151,58,Active,Allergy: Mushroom,Weight Loss
+Anas,56,Male,167,79,Light,Allergy: Wheat,Weight Loss
+Ayaan,25,Female,157,53,Moderate,None,Maintain
+Yusuf,52,Female,159,53,Light,Allergy: Nuts,Maintain
+Saif,42,Female,166,89,Moderate,Allergy: Mushroom,Maintain
+Bilal,33,Female,156,63,Active,Allergy: Wheat,Maintain
+Yusuf,35,Female,162,50,Active,Diabetes,Weight Gain
+Taha,58,Female,151,52,Moderate,Diabetes,Maintain
+Muhammad,41,Male,171,70,Moderate,Allergy: Wheat,Weight Loss
+Dua,19,Male,167,61,Active,Diabetes,Maintain
+Shayan,55,Male,184,86,Active,Allergy: Nuts,Weight Loss
+Muhammad,54,Female,151,66,Moderate,Diabetes,Weight Gain
+Zara,60,Male,172,82,Light,Diabetes,Weight Loss
+Maryam,51,Male,162,61,Active,Diabetes,Weight Loss
+Fizan,69,Male,165,71,Light,Diabetes,Weight Loss
+Zayan,36,Male,176,74,Active,Hypertension,Weight Loss
+Yusuf,28,Female,169,93,Active,Allergy: Seafood,Maintain
+Eman,69,Female,160,68,Sedentary,Allergy: Wheat,Weight Loss
+Hassan,46,Male,173,59,Light,Allergy: Seafood,Weight Loss
+Saad,29,Male,168,90,Active,Allergy: Wheat,Weight Loss
+Mahnoor,22,Male,166,63,Moderate,Diabetes,Weight Gain
+Eesa,22,Male,162,49,Active,Hypertension,Maintain
+Ayaan,74,Female,161,53,Light,Allergy: Wheat,Weight Loss
+Sameer,49,Female,157,60,Light,Allergy: Mushroom,Weight Loss
+Yusra,38,Male,165,77,Light,Allergy: Seafood,Weight Loss
+Hussain,64,Male,181,95,Light,Allergy: Egg,Weight Loss
+Ahmed,61,Male,173,63,Active,Diabetes,Maintain
+Sumaira,23,Male,176,80,Light,Allergy: Seafood,Weight Loss
+Taha,31,Male,156,71,Light,Allergy: Mushroom,Weight Loss
+Zeeshan,51,Male,184,106,Light,Allergy: Mushroom,Weight Loss
+Zara,41,Male,169,53,Moderate,Allergy: Wheat,Maintain
+Adnan,52,Female,175,58,Active,Allergy: Wheat,Weight Loss
+Shahmeer,24,Male,169,77,Moderate,Hypertension,Maintain
+Arham,71,Male,170,86,Active,Allergy: Wheat,Maintain
+Adnan,55,Male,168,56,Light,Hypertension,Weight Loss
+Sarmad,54,Male,173,73,Active,Allergy: Wheat,Weight Loss
+Fahad,46,Male,176,90,Light,Diabetes,Weight Loss
+Fatima,39,Male,172,67,Sedentary,Diabetes,Weight Loss
+Yusra,37,Male,159,63,Active,Hypertension,Maintain
+Imran,53,Female,161,66,Moderate,None,Maintain
+Rayyan,55,Female,157,49,Light,Allergy: Egg,Weight Loss
+Zeeshan,18,Male,165,81,Light,None,Weight Loss
+Mahad,41,Male,165,52,Moderate,Hypertension,Maintain
+Laiba,44,Female,145,49,Active,Diabetes,Weight Gain
+Shayan,47,Male,178,99,Active,Allergy: Seafood,Weight Gain
+Fahad,67,Female,152,61,Light,Allergy: Mushroom,Maintain
+Eesa,34,Female,163,49,Sedentary,Allergy: Seafood,Weight Loss
+Shhab,26,Male,164,83,Moderate,Diabetes,Maintain
+Anaya,58,Male,172,63,Active,Allergy: Egg,Weight Loss
+Ahmed,65,Male,183,75,Moderate,Diabetes,Maintain
+Hussain,53,Male,170,86,Active,Allergy: Wheat,Weight Gain
+Muhammad,44,Female,162,54,Active,Diabetes,Weight Loss
+Anas,19,Female,154,44,Sedentary,Hypertension,Maintain
+Omar,48,Female,156,60,Moderate,Allergy: Nuts,Weight Loss
+Sumaira,32,Female,168,73,Active,Hypertension,Weight Loss
+Ibrahim,66,Female,165,71,Light,Allergy: Seafood,Maintain
+Yusra,31,Female,158,59,Light,Allergy: Mushroom,Weight Loss
+Areeba,24,Male,174,61,Active,Hypertension,Maintain
+Zeeshan,28,Female,165,79,Light,Diabetes,Maintain
+Fahad,30,Female,152,72,Sedentary,Hypertension,Weight Loss
+Bilal,18,Female,162,48,Active,Diabetes,Weight Loss
+Laiba,37,Male,173,78,Active,Allergy: Wheat,Weight Gain
+Sara,34,Male,174,69,Moderate,Hypertension,Maintain
+Adnan,21,Female,165,53,Light,Allergy: Nuts,Weight Loss
+Sarmad,57,Female,163,74,Active,Allergy: Wheat,Weight Loss
+Fatima,30,Male,168,64,Moderate,Allergy: Mushroom,Weight Loss
+Adnan,35,Female,162,80,Light,Diabetes,Maintain
+Noman,22,Female,155,71,Light,Allergy: Egg,Weight Loss
+Kashif,61,Female,158,74,Light,Allergy: Nuts,Weight Loss
+Sana,33,Male,169,68,Active,Allergy: Nuts,Maintain
+Eman,36,Female,152,58,Moderate,Diabetes,Weight Loss
+Shahmeer,45,Female,156,77,Moderate,Diabetes,Weight Gain
+Ammar,22,Male,177,71,Light,Diabetes,Weight Gain
+Huzaifa,62,Male,160,78,Active,Allergy: Nuts,Weight Loss
+Iqra,34,Female,163,83,Active,Allergy: Egg,Maintain
+Shahzaib,69,Male,177,58,Moderate,Allergy: Wheat,Weight Gain
+Ali,39,Male,167,61,Sedentary,Allergy: Nuts,Weight Loss
+Farhan,18,Female,166,86,Moderate,Allergy: Egg,Weight Loss
+Aleena,72,Male,175,76,Moderate,Hypertension,Weight Loss
+Ayaan,37,Female,168,81,Moderate,Diabetes,Weight Loss
+Komal,38,Female,172,96,Moderate,Diabetes,Weight Loss
+Sana,50,Female,155,52,Active,Hypertension,Weight Gain
+Ibrahim,27,Female,161,84,Moderate,Diabetes,Weight Loss
+Noor,45,Female,177,82,Moderate,Diabetes,Maintain
+Hira,31,Male,167,64,Active,Allergy: Mushroom,Maintain
+Aiman,46,Male,166,75,Moderate,Hypertension,Weight Loss
+Ibrahim,63,Female,158,70,Moderate,Hypertension,Maintain
+Hamza,50,Female,147,68,Moderate,None,Weight Loss
+Hussain,41,Male,160,83,Light,Allergy: Wheat,Maintain
+Mariam,31,Male,173,85,Sedentary,Diabetes,Maintain
+Usman,53,Female,155,65,Moderate,Hypertension,Weight Loss
+Haris,60,Male,173,84,Sedentary,Allergy: Wheat,Weight Loss
+Shahzaib,44,Female,163,72,Light,Diabetes,Maintain
+Arham,56,Male,175,80,Light,Diabetes,Weight Gain
+Ibrahim,44,Female,166,59,Active,Allergy: Wheat,Weight Gain
+Bilal,53,Female,172,65,Light,Diabetes,Weight Loss
+Haris,52,Female,154,59,Light,Hypertension,Maintain
+Sana,36,Male,181,94,Light,Diabetes,Weight Gain
+Ayesha,34,Male,160,48,Moderate,Diabetes,Weight Loss
+Talha,43,Male,162,50,Sedentary,Allergy: Wheat,Weight Loss
+Farhan,29,Female,168,86,Moderate,Allergy: Seafood,Maintain
+Sarmad,28,Male,168,72,Moderate,Diabetes,Weight Loss
+Areeba,23,Male,171,60,Moderate,Diabetes,Weight Loss
+Kashif,58,Female,157,58,Light,Hypertension,Weight Loss
+Farooq,43,Female,167,62,Moderate,None,Weight Loss
+Abdullah,29,Male,171,76,Moderate,Allergy: Wheat,Weight Loss
+Hafsa,50,Female,162,57,Active,Allergy: Mushroom,Weight Loss
+Hina,62,Female,161,53,Active,Allergy: Wheat,Weight Loss
+Muhammad,51,Male,180,78,Sedentary,Diabetes,Maintain
+Iqra,31,Male,168,52,Sedentary,Allergy: Seafood,Weight Loss
+Nida,65,Female,151,62,Moderate,Diabetes,Weight Gain
+Anaya,43,Female,161,57,Moderate,Diabetes,Maintain
+Fatima,36,Male,169,55,Sedentary,Diabetes,Weight Loss
+Ibrahim,74,Male,176,74,Moderate,Allergy: Wheat,Weight Loss
+Mariam,22,Male,166,68,Moderate,Allergy: Seafood,Maintain
+Iqra,28,Female,158,77,Light,Allergy: Seafood,Maintain
+Anaya,22,Female,158,55,Sedentary,Allergy: Nuts,Weight Loss
+Noman,57,Female,173,86,Sedentary,Diabetes,Maintain
+Shahmeer,35,Male,170,66,Active,Allergy: Wheat,Weight Loss
+Eesa,44,Male,178,71,Moderate,Allergy: Mushroom,Weight Gain
+Yusra,28,Female,163,48,Light,Allergy: Mushroom,Maintain
+Ali,53,Male,166,70,Light,Allergy: Mushroom,Maintain
+Rehan,53,Female,161,68,Moderate,Allergy: Wheat,Weight Loss
+Usama,45,Male,158,48,Light,Allergy: Egg,Weight Loss
+Kamran,41,Male,173,86,Light,Allergy: Egg,Weight Loss
+Mahnoor,38,Male,170,91,Active,Allergy: Nuts,Weight Loss
+Sana,21,Female,164,50,Moderate,Diabetes,Maintain
+Sana,74,Female,159,77,Moderate,Allergy: Egg,Weight Loss
+Rizwan,21,Male,179,97,Light,Hypertension,Weight Loss
+Fahad,20,Male,167,57,Moderate,Hypertension,Weight Loss
+Rizwan,39,Male,182,75,Light,Allergy: Egg,Weight Loss
+Maryam,75,Female,161,65,Moderate,Diabetes,Weight Loss
+Zubair,50,Female,166,55,Sedentary,Diabetes,Weight Gain
+Sara,47,Male,177,74,Sedentary,Hypertension,Weight Gain
+Naveed,72,Male,171,93,Active,Allergy: Seafood,Weight Loss
+Anaya,61,Male,173,88,Light,Diabetes,Weight Loss
+Farhan,34,Male,172,81,Light,Allergy: Wheat,Weight Loss
+Azlan,55,Male,165,75,Active,Hypertension,Weight Loss
+Danish,69,Male,171,89,Active,Allergy: Nuts,Weight Loss
+Hamza,32,Male,176,84,Active,Allergy: Seafood,Weight Loss
+Fatima,26,Female,152,75,Active,Allergy: Seafood,Maintain
+Dua,52,Female,153,44,Light,Hypertension,Maintain
+Dua,57,Female,150,49,Moderate,Diabetes,Maintain
+Uroosa,73,Male,154,62,Light,Allergy: Egg,Weight Gain
+Areesha,63,Male,170,81,Active,Hypertension,Weight Gain
+Hassan,47,Female,164,53,Light,Allergy: Mushroom,Weight Loss
+Ibrahim,65,Female,164,62,Active,Allergy: Wheat,Maintain
+Laiba,75,Female,162,69,Active,Allergy: Wheat,Maintain
+Rizwan,48,Male,177,99,Light,Allergy: Wheat,Weight Loss
+Kamran,29,Male,177,103,Sedentary,Allergy: Seafood,Weight Loss
+Mahnoor,75,Female,172,57,Moderate,Allergy: Seafood,Maintain
+Aleena,68,Female,156,54,Active,Diabetes,Weight Loss
+Salman,30,Male,178,69,Moderate,Allergy: Nuts,Weight Loss
+Eman,32,Female,161,73,Sedentary,Allergy: Wheat,Weight Loss
+Laiba,28,Male,169,92,Moderate,Diabetes,Weight Loss
+Iqra,59,Male,176,91,Active,Hypertension,Maintain
+Mahad,23,Male,173,74,Active,Hypertension,Weight Loss
+Hussain,34,Female,145,59,Active,Allergy: Mushroom,Weight Gain
+Rabia,33,Female,164,69,Light,Hypertension,Weight Loss
+Khadija,19,Female,161,54,Moderate,Allergy: Nuts,Weight Loss
+Farhan,24,Male,172,96,Sedentary,None,Weight Gain
+Hafsa,70,Male,177,88,Moderate,Allergy: Nuts,Maintain
+Omar,52,Female,150,69,Moderate,Allergy: Mushroom,Weight Loss
+Maryam,46,Male,167,86,Moderate,Hypertension,Maintain
+Shahmeer,37,Male,164,85,Active,Hypertension,Weight Loss
+Mariam,75,Female,155,57,Sedentary,Diabetes,Weight Gain
+Sarmad,75,Male,181,90,Sedentary,None,Maintain
+Laiba,68,Male,167,89,Moderate,Hypertension,Weight Loss
+Fizan,59,Female,155,50,Moderate,Diabetes,Weight Loss
+Shahzaib,56,Male,158,57,Active,None,Maintain
+Hassan,44,Male,183,105,Active,Hypertension,Weight Gain
+Abdullah,65,Female,155,54,Light,Hypertension,Weight Loss
+Shahmeer,39,Male,166,86,Active,Allergy: Seafood,Weight Loss
+Bilal,67,Female,167,78,Active,Allergy: Mushroom,Weight Loss
+Huda,28,Female,165,87,Sedentary,Hypertension,Weight Loss
+Abdullah,18,Female,154,54,Moderate,Hypertension,Maintain
+Fizan,27,Female,152,67,Active,Allergy: Egg,Weight Gain
+Asma,45,Male,180,98,Moderate,Allergy: Egg,Maintain
+Zubair,24,Female,153,50,Moderate,Allergy: Nuts,Maintain
+Laiba,30,Male,172,65,Moderate,Diabetes,Weight Loss
+Sara,31,Male,159,73,Moderate,Allergy: Wheat,Weight Gain
+Hooria,55,Male,171,60,Active,Hypertension,Weight Loss
+Komal,35,Female,163,82,Active,Allergy: Mushroom,Weight Loss
+Ali,65,Female,163,77,Active,Diabetes,Weight Loss
+Yusra,62,Male,177,80,Sedentary,Hypertension,Weight Loss
+Huzaifa,41,Female,159,54,Sedentary,Diabetes,Maintain
+Zara,29,Male,175,75,Light,Hypertension,Weight Gain
+Rizwan,44,Female,161,73,Moderate,Diabetes,Weight Gain
+Mahnoor,64,Male,173,65,Moderate,Allergy: Mushroom,Weight Loss
+Areeba,51,Male,167,58,Moderate,Allergy: Mushroom,Weight Gain
+Zayan,30,Female,156,56,Moderate,Diabetes,Weight Loss
+Asma,27,Male,184,78,Moderate,Diabetes,Maintain
+Talha,36,Female,155,66,Moderate,None,Maintain
+Taha,53,Female,162,83,Moderate,Allergy: Egg,Weight Loss
+Yusra,19,Female,158,82,Moderate,None,Weight Loss
+Hassan,37,Male,161,55,Active,Allergy: Seafood,Weight Loss
+Haris,23,Female,155,48,Active,Allergy: Wheat,Maintain
+Arham,44,Male,173,82,Active,None,Weight Loss
+Laiba,35,Male,166,73,Active,Diabetes,Weight Gain
+Shahzaib,60,Female,158,67,Light,Allergy: Seafood,Weight Loss
+Salman,47,Male,173,96,Light,Allergy: Wheat,Weight Loss
+Bilal,46,Male,175,100,Sedentary,Diabetes,Maintain
+Sameer,74,Female,152,73,Active,Hypertension,Weight Loss
+Sana,36,Female,173,85,Active,Hypertension,Maintain
+Haris,53,Female,163,48,Light,Allergy: Mushroom,Weight Loss
+Rayyan,67,Female,153,50,Active,Allergy: Wheat,Weight Loss
+Aiman,60,Male,158,75,Light,Allergy: Wheat,Weight Loss
+Sara,61,Male,160,84,Sedentary,Hypertension,Weight Loss
+Noman,45,Female,160,67,Light,Hypertension,Weight Loss
+Adnan,38,Female,166,76,Moderate,Allergy: Nuts,Maintain
+Anaya,35,Male,170,55,Moderate,Hypertension,Weight Loss
+Laiba,23,Male,160,64,Active,Hypertension,Weight Loss
+Zayan,28,Female,171,81,Active,Allergy: Wheat,Maintain
+Zayan,71,Female,165,67,Active,Diabetes,Weight Loss
+Aiman,42,Male,175,80,Active,None,Weight Loss
+Huzaifa,64,Female,151,58,Moderate,Allergy: Mushroom,Maintain
+Hira,59,Male,162,80,Sedentary,Diabetes,Weight Loss
+Dua,24,Female,162,65,Moderate,Allergy: Mushroom,Maintain
+Rayyan,57,Male,176,74,Active,Allergy: Seafood,Weight Loss
+Sana,22,Female,160,52,Moderate,Allergy: Egg,Maintain
+Usman,64,Female,172,59,Active,Diabetes,Weight Gain
+Saad,62,Male,162,56,Light,Diabetes,Weight Loss
+Hafsa,57,Male,168,74,Light,Hypertension,Weight Loss
+Zeeshan,72,Male,187,64,Light,Diabetes,Weight Loss
+Ahmed,19,Male,181,66,Light,Hypertension,Weight Gain
+Imran,49,Male,175,95,Active,Allergy: Wheat,Weight Gain
+Azlan,41,Male,181,71,Moderate,Allergy: Nuts,Weight Loss
+Usama,52,Female,159,58,Light,Hypertension,Maintain
+Hussain,19,Male,180,82,Moderate,Diabetes,Maintain
+Rayyan,25,Female,150,66,Moderate,Allergy: Seafood,Weight Loss
+Hassan,74,Male,171,88,Moderate,None,Weight Loss
+Shayan,72,Female,161,70,Sedentary,Hypertension,Weight Loss
+Bilal,24,Male,170,83,Moderate,Allergy: Wheat,Weight Loss
+Shahmeer,49,Female,154,46,Active,Allergy: Seafood,Weight Loss
+Azlan,65,Female,161,76,Light,Hypertension,Weight Loss
+Yusuf,69,Male,166,58,Moderate,Diabetes,Maintain
+Ahmed,44,Male,175,75,Light,Allergy: Nuts,Maintain
+Sana,20,Male,184,75,Sedentary,Hypertension,Maintain
+Zara,58,Female,158,77,Moderate,Diabetes,Weight Loss
+Sarmad,36,Male,180,90,Light,Hypertension,Maintain
+Areeba,54,Male,169,83,Active,Allergy: Egg,Weight Loss
+Usman,37,Female,163,58,Moderate,Allergy: Mushroom,Weight Loss
+Talha,49,Male,162,78,Light,Allergy: Mushroom,Maintain
+Aleena,49,Male,169,75,Light,Diabetes,Weight Loss
+Sameer,61,Female,163,77,Light,Allergy: Wheat,Weight Gain
+Mahad,47,Female,155,47,Light,Diabetes,Maintain
+Yusra,31,Male,172,54,Moderate,Allergy: Egg,Maintain
+Zubair,63,Female,159,75,Moderate,Allergy: Wheat,Weight Loss
+Dua,68,Male,171,53,Moderate,Allergy: Seafood,Weight Loss
+Anas,43,Male,159,60,Light,Allergy: Wheat,Weight Loss
+Taha,28,Female,149,59,Light,Allergy: Egg,Maintain
+Rehan,68,Male,161,85,Sedentary,Allergy: Wheat,Weight Loss
+Zara,52,Male,172,76,Light,Allergy: Mushroom,Maintain
+Shahmeer,38,Male,173,56,Light,Allergy: Wheat,Maintain
+Taha,70,Male,176,85,Sedentary,Diabetes,Weight Loss
+Haris,61,Male,176,59,Active,Allergy: Egg,Weight Loss
+Maryam,52,Male,171,88,Active,Diabetes,Weight Loss
+Ayesha,37,Male,180,90,Moderate,Hypertension,Weight Loss
+Areeba,51,Female,162,48,Light,Diabetes,Maintain
+Muhammad,26,Female,165,69,Active,Allergy: Seafood,Maintain
+Aiman,19,Male,183,110,Light,Allergy: Wheat,Maintain
+Shahid,53,Female,157,60,Sedentary,Allergy: Seafood,Weight Gain
+Sameer,35,Female,153,56,Light,Allergy: Nuts,Weight Loss
+Mahad,35,Female,168,93,Active,Diabetes,Weight Loss
+Anas,71,Female,145,48,Active,Diabetes,Weight Loss
+Aleena,75,Female,150,73,Active,Diabetes,Weight Loss
+Ayaan,74,Female,152,47,Sedentary,Allergy: Mushroom,Weight Loss
+Maryam,24,Female,159,75,Moderate,Allergy: Wheat,Weight Loss
+Anaya,30,Female,151,44,Moderate,Diabetes,Weight Loss
+Rehan,38,Female,172,79,Active,Allergy: Mushroom,Weight Loss
+Eman,22,Male,169,76,Light,Allergy: Nuts,Weight Loss
+Rizwan,63,Male,171,74,Sedentary,Diabetes,Weight Loss
+Hamza,30,Male,183,83,Moderate,Allergy: Nuts,Weight Loss
+Dua,68,Male,184,87,Active,Diabetes,Weight Gain
+Zubair,72,Male,172,83,Moderate,None,Weight Gain
+Ibrahim,56,Female,145,66,Moderate,Diabetes,Weight Loss
+Maryam,62,Male,170,68,Moderate,Hypertension,Weight Loss
+Ayaan,49,Male,159,83,Moderate,Diabetes,Weight Loss
+Usama,60,Female,165,80,Active,Hypertension,Weight Loss
+Kashif,38,Male,171,68,Light,Diabetes,Weight Loss
+Imran,36,Female,151,62,Moderate,Allergy: Nuts,Weight Loss
+Maryam,48,Male,167,71,Light,Allergy: Seafood,Weight Loss
+Sara,49,Female,163,76,Light,None,Maintain
+Usman,52,Female,176,98,Light,Allergy: Egg,Weight Loss
+Salman,41,Male,173,92,Moderate,Diabetes,Weight Loss
+Aleena,57,Male,168,77,Sedentary,Allergy: Mushroom,Maintain
+Naveed,47,Female,162,77,Active,Allergy: Wheat,Maintain
+Farhan,52,Female,149,65,Light,Diabetes,Maintain
+Saad,70,Female,152,43,Active,Allergy: Wheat,Weight Loss
+Zubair,34,Male,164,60,Light,None,Weight Loss
+Haris,61,Male,175,68,Light,Hypertension,Weight Loss
+Fatima,37,Male,167,56,Active,Allergy: Egg,Maintain
+Sameer,32,Female,166,88,Sedentary,Diabetes,Weight Gain
+Saif,66,Female,165,60,Moderate,None,Weight Loss
+Imran,54,Female,153,59,Moderate,Allergy: Nuts,Weight Loss
+Zayan,21,Male,167,90,Light,Allergy: Egg,Maintain
+Wasim,66,Male,169,69,Moderate,Allergy: Nuts,Weight Loss
+Hassan,27,Male,166,57,Sedentary,Allergy: Nuts,Weight Loss
+Salman,48,Female,155,47,Moderate,Allergy: Mushroom,Weight Loss
+Zayan,75,Male,178,73,Sedentary,Diabetes,Maintain
+Zeeshan,39,Male,172,76,Light,None,Maintain
+Mahad,66,Male,175,60,Moderate,Hypertension,Weight Gain
+Sameer,68,Male,175,66,Moderate,Diabetes,Weight Gain
+Hira,36,Male,165,56,Light,Allergy: Egg,Maintain
+Ayaan,35,Male,172,65,Active,None,Maintain
+Hina,42,Male,172,63,Moderate,Allergy: Wheat,Weight Loss
+Zeeshan,27,Male,168,86,Moderate,Diabetes,Maintain
+Iqra,75,Male,172,60,Moderate,Allergy: Wheat,Weight Loss
+Yusra,42,Male,167,66,Moderate,Allergy: Nuts,Weight Loss
+Ahmed,24,Male,168,69,Light,Allergy: Wheat,Weight Loss
+Saif,55,Male,173,97,Sedentary,Allergy: Wheat,Weight Loss
+Salman,43,Male,176,87,Light,Diabetes,Weight Loss
+Taha,20,Female,161,48,Moderate,Hypertension,Weight Loss
+Komal,44,Female,152,65,Moderate,Allergy: Nuts,Weight Gain
+Saad,39,Male,159,77,Active,Allergy: Wheat,Weight Loss
+Khadija,61,Female,158,81,Moderate,Diabetes,Maintain
+Naveed,34,Female,155,76,Moderate,Allergy: Mushroom,Weight Loss
+Dua,69,Male,163,83,Light,Allergy: Wheat,Maintain
+Zara,36,Male,157,58,Active,None,Weight Loss
+Dua,39,Male,175,65,Active,Allergy: Mushroom,Weight Loss
+Hira,66,Male,170,94,Moderate,Allergy: Mushroom,Maintain
+Kashif,39,Female,152,55,Light,Allergy: Wheat,Maintain
+Shahid,28,Male,170,81,Moderate,Allergy: Mushroom,Weight Gain
+Adnan,30,Male,170,74,Active,None,Weight Loss
+Zayan,18,Male,178,93,Light,Diabetes,Weight Loss
+Mahad,28,Male,167,60,Active,Allergy: Wheat,Weight Loss
+Eesa,19,Male,170,92,Sedentary,Allergy: Wheat,Weight Loss
+Taha,37,Female,163,86,Active,Diabetes,Weight Loss
+Rizwan,45,Male,176,82,Moderate,Diabetes,Maintain
+Huda,20,Female,158,66,Active,Hypertension,Weight Loss
+Rayyan,73,Female,165,58,Moderate,Allergy: Mushroom,Maintain
+Zara,36,Male,161,58,Sedentary,Diabetes,Weight Loss
+Zayan,65,Female,166,63,Light,Allergy: Nuts,Maintain
+Ali,39,Female,155,49,Moderate,Diabetes,Weight Loss
+Saad,20,Female,163,81,Moderate,Allergy: Wheat,Maintain
+Ibrahim,24,Male,162,60,Moderate,Allergy: Mushroom,Weight Loss
+Shahmeer,35,Female,151,69,Active,Allergy: Seafood,Maintain
+Bilal,41,Male,181,72,Light,Allergy: Wheat,Weight Loss
+Ayaan,29,Female,152,47,Sedentary,Diabetes,Weight Gain
+Hafsa,29,Female,175,74,Light,Hypertension,Maintain
+Abdullah,65,Female,155,44,Moderate,Hypertension,Maintain
+Shayan,67,Female,164,59,Active,Diabetes,Weight Loss
+Yusra,20,Male,166,89,Active,Diabetes,Weight Gain
+Aleena,41,Female,165,67,Active,Allergy: Nuts,Weight Gain
+Imran,26,Female,172,68,Light,Diabetes,Maintain
+Yusra,57,Male,179,60,Light,Diabetes,Maintain
+Mahnoor,38,Male,174,60,Moderate,Hypertension,Weight Gain
+Rayyan,54,Female,152,61,Light,Allergy: Mushroom,Maintain
+Zayan,61,Female,173,90,Active,Allergy: Seafood,Weight Gain
+Ahmed,67,Male,173,69,Active,Diabetes,Weight Loss
+Abdullah,56,Male,166,80,Moderate,Diabetes,Maintain
+Danish,67,Male,174,68,Sedentary,Allergy: Seafood,Weight Loss
+Zubair,22,Female,161,52,Active,Diabetes,Maintain
+Zubair,52,Female,146,43,Active,Allergy: Seafood,Weight Gain
+Talha,56,Female,164,84,Light,Allergy: Nuts,Maintain
+Nida,67,Male,165,59,Active,Allergy: Wheat,Weight Gain
+Hamza,64,Female,169,90,Moderate,Allergy: Nuts,Weight Gain
+Ali,40,Male,162,51,Light,Allergy: Wheat,Maintain
+Zeeshan,31,Female,155,58,Active,Diabetes,Weight Gain
+Huzaifa,50,Female,154,67,Active,Allergy: Nuts,Weight Loss
+Ayesha,22,Male,160,72,Moderate,Diabetes,Maintain
+Nimra,20,Female,172,81,Moderate,Diabetes,Maintain
+Noman,20,Female,159,76,Active,Allergy: Wheat,Weight Loss
+Laiba,24,Female,177,82,Active,Hypertension,Weight Loss
+Eesa,40,Female,155,46,Active,Diabetes,Maintain
+Kamran,61,Female,152,52,Active,None,Weight Loss
+Ammar,43,Male,177,74,Sedentary,Allergy: Mushroom,Maintain
+Zainab,57,Male,175,79,Moderate,Diabetes,Maintain
+Fatima,46,Male,170,81,Sedentary,None,Maintain
+Zeeshan,27,Female,156,65,Light,Hypertension,Weight Loss
+Bilal,50,Male,169,59,Moderate,Diabetes,Weight Loss
+Kamran,41,Female,153,73,Moderate,Diabetes,Weight Loss
+Ali,75,Female,158,60,Moderate,Allergy: Seafood,Weight Loss
+Anaya,74,Female,159,68,Moderate,Allergy: Egg,Weight Loss
+Rehan,30,Male,163,75,Moderate,Allergy: Wheat,Weight Loss
+Naveed,36,Female,166,73,Light,Allergy: Egg,Weight Loss
+Areeba,21,Female,161,70,Light,Hypertension,Weight Loss
+Shahmeer,22,Female,154,76,Active,Allergy: Nuts,Weight Loss
+Musarrat,20,Male,173,89,Light,Allergy: Mushroom,Weight Loss
+Sumaira,70,Male,165,74,Moderate,Allergy: Wheat,Weight Loss
+Junaid,26,Male,160,72,Moderate,Allergy: Wheat,Weight Gain
+Ayaan,74,Female,162,61,Light,None,Weight Loss
+Yusuf,72,Male,161,82,Active,Diabetes,Weight Loss
+Yusuf,18,Female,162,61,Active,Hypertension,Weight Loss
+Iqra,49,Male,180,80,Moderate,Allergy: Mushroom,Maintain
+Hafsa,37,Female,164,71,Active,Allergy: Nuts,Weight Loss
+Hamza,36,Female,151,70,Active,Allergy: Seafood,Maintain
+Ayaan,21,Male,168,67,Moderate,Allergy: Seafood,Weight Loss
+Eesa,36,Female,156,54,Moderate,Hypertension,Weight Loss
+Hafsa,71,Female,171,91,Moderate,Diabetes,Weight Loss
+Saif,26,Male,185,104,Sedentary,Diabetes,Weight Loss
+Nida,44,Male,168,54,Moderate,Hypertension,Weight Loss
+Imran,61,Female,165,56,Active,Diabetes,Weight Loss
+Azlan,38,Female,158,70,Light,Allergy: Egg,Weight Loss
+Kashif,36,Female,156,59,Active,Allergy: Wheat,Maintain
+Fahad,46,Female,160,83,Moderate,Diabetes,Weight Loss
+Fizan,59,Female,163,80,Moderate,Diabetes,Weight Loss
+Farhan,40,Male,186,96,Moderate,Hypertension,Weight Gain
+Shahzaib,38,Male,165,58,Moderate,Allergy: Seafood,Weight Gain
+Saad,44,Female,168,69,Moderate,None,Weight Loss
+Khadija,23,Male,165,88,Light,Allergy: Mushroom,Maintain
+Noman,44,Male,167,77,Light,Hypertension,Maintain
+Hafsa,40,Male,172,92,Sedentary,Diabetes,Maintain
+Sumaira,69,Male,153,55,Sedentary,Diabetes,Weight Loss
+Noman,27,Male,168,64,Moderate,Diabetes,Weight Loss
+Aleena,30,Female,162,58,Active,Allergy: Mushroom,Weight Loss
+Dua,20,Male,182,66,Moderate,Allergy: Mushroom,Maintain
+Ali,20,Female,147,39,Moderate,Allergy: Nuts,Weight Loss
+Hussain,40,Female,160,50,Active,Allergy: Egg,Weight Loss
+Sumaira,73,Female,153,51,Moderate,Diabetes,Weight Loss
+Shayan,58,Male,169,90,Active,Hypertension,Weight Loss
+Rizwan,30,Male,166,56,Light,Hypertension,Maintain
+Hafsa,72,Female,151,61,Light,Allergy: Wheat,Weight Loss
+Sara,46,Female,165,73,Light,Diabetes,Weight Loss
+Hoorain,31,Female,166,77,Moderate,Allergy: Seafood,Weight Loss
+Sara,21,Male,178,95,Sedentary,Diabetes,Weight Loss
+Zubair,51,Male,180,65,Light,Diabetes,Maintain
+Hamza,48,Male,168,87,Moderate,Diabetes,Weight Loss
+Yusuf,73,Male,169,73,Light,Diabetes,Maintain
+Omar,61,Male,170,86,Sedentary,Allergy: Seafood,Maintain
+Kashif,18,Male,174,63,Light,None,Weight Loss
+Huda,44,Male,167,77,Moderate,Allergy: Seafood,Maintain
+Taha,40,Male,159,80,Active,Allergy: Wheat,Weight Loss
+Noor,74,Male,169,92,Light,Allergy: Mushroom,Weight Loss
+Komal,37,Female,162,79,Moderate,Diabetes,Weight Loss
+Hina,35,Female,156,69,Light,Hypertension,Weight Loss
+Zeeshan,61,Male,174,65,Light,Allergy: Wheat,Weight Loss
+Fizan,42,Female,154,67,Active,Diabetes,Weight Loss
+Maryam,62,Female,159,78,Sedentary,Allergy: Nuts,Weight Loss
+Eesa,31,Female,170,65,Light,Allergy: Egg,Maintain
+Adnan,29,Male,181,67,Sedentary,Diabetes,Weight Loss
+Junaid,36,Male,170,86,Moderate,Diabetes,Maintain
+Eesa,26,Male,158,70,Sedentary,None,Weight Loss
+Hafsa,41,Male,161,59,Moderate,Allergy: Nuts,Maintain
+Ayesha,73,Female,166,60,Moderate,Allergy: Nuts,Weight Loss
+Dua,23,Male,173,62,Active,Allergy: Mushroom,Weight Loss
+Hafsa,22,Female,148,44,Moderate,Diabetes,Weight Loss
+Eesa,29,Male,160,76,Active,Diabetes,Maintain
+Dua,39,Female,147,48,Light,Allergy: Seafood,Weight Loss
+Ibrahim,37,Female,159,80,Sedentary,Allergy: Seafood,Maintain
+Omar,23,Female,160,46,Active,Diabetes,Weight Loss
+Rayyan,50,Male,176,89,Light,Allergy: Egg,Weight Loss
+Abdullah,39,Female,162,62,Light,Allergy: Wheat,Weight Loss
+Asma,36,Male,170,85,Light,Diabetes,Weight Loss
+Abdullah,20,Female,157,61,Light,Diabetes,Weight Loss
+Bilal,75,Male,172,55,Moderate,Allergy: Nuts,Maintain
+Yusuf,37,Male,168,88,Moderate,Hypertension,Weight Loss
+Rizwan,61,Female,164,62,Sedentary,Diabetes,Weight Loss
+Mahnoor,49,Male,168,74,Active,Allergy: Wheat,Weight Loss
+Komal,66,Female,162,79,Moderate,Diabetes,Weight Loss
+Mariam,68,Male,171,66,Moderate,Allergy: Mushroom,Weight Loss
+Hussain,48,Female,153,54,Moderate,Diabetes,Maintain
+Rayyan,36,Female,166,53,Light,Diabetes,Maintain
+Ibrahim,60,Male,169,87,Active,Allergy: Nuts,Weight Loss
+Arham,19,Male,170,64,Active,Allergy: Mushroom,Weight Gain
+Ammar,36,Female,171,61,Moderate,Allergy: Wheat,Weight Loss
+Huda,18,Female,165,55,Light,Allergy: Seafood,Weight Loss
+Ibrahim,27,Male,178,98,Active,Allergy: Wheat,Weight Loss
+Huzaifa,48,Female,167,91,Light,Hypertension,Maintain
+Anaya,71,Female,154,62,Light,Allergy: Wheat,Maintain
+Danish,52,Male,186,80,Light,Allergy: Egg,Weight Gain
+Ali,24,Female,163,57,Light,Allergy: Wheat,Weight Loss
+Fatima,68,Female,173,81,Sedentary,Allergy: Seafood,Weight Loss
+Sumaira,32,Male,156,58,Moderate,Allergy: Mushroom,Weight Loss
+Ayesha,48,Male,155,55,Moderate,Diabetes,Weight Loss
+Maryam,33,Female,149,58,Light,Diabetes,Weight Loss
+Ammar,29,Female,161,59,Sedentary,Allergy: Wheat,Weight Loss
+Zubair,24,Male,169,64,Active,None,Weight Loss
+Usama,67,Female,149,51,Sedentary,Allergy: Egg,Weight Loss
+Ammar,75,Female,171,55,Light,Allergy: Wheat,Weight Gain
+Zayan,74,Female,172,94,Moderate,Diabetes,Maintain
+Ibrahim,58,Female,147,53,Moderate,None,Weight Loss
+Salman,28,Female,163,79,Light,Allergy: Mushroom,Maintain
+Shahid,41,Male,171,82,Light,Allergy: Egg,Maintain
+Kamran,52,Female,156,68,Light,Allergy: Wheat,Maintain
+Mahad,21,Female,154,62,Active,Allergy: Seafood,Weight Loss
+Noman,63,Female,158,65,Light,Allergy: Mushroom,Weight Loss
+Muhammad,73,Male,167,51,Active,Hypertension,Weight Loss
+Zara,56,Female,159,51,Moderate,Allergy: Wheat,Weight Loss
+Fahad,70,Male,159,81,Light,Allergy: Egg,Maintain
+Kamran,75,Male,166,83,Moderate,Diabetes,Weight Loss
+Fahad,43,Male,175,59,Moderate,Hypertension,Maintain
+Rayyan,54,Female,157,70,Light,Allergy: Wheat,Maintain
+Hussain,50,Male,176,88,Light,Diabetes,Weight Loss
+Noor,66,Male,175,98,Light,Allergy: Wheat,Weight Loss
+Taha,64,Male,176,78,Active,Diabetes,Maintain
+Hira,25,Female,163,71,Active,Allergy: Egg,Maintain
+Shahzaib,38,Female,156,53,Active,Allergy: Egg,Weight Loss
+Asma,36,Female,159,76,Active,Diabetes,Maintain
+Laiba,43,Female,163,62,Active,Hypertension,Maintain
+Aiman,54,Male,160,78,Sedentary,Hypertension,Weight Loss
+Yusuf,27,Male,183,85,Moderate,Allergy: Nuts,Weight Loss
+Shahzaib,26,Female,162,66,Sedentary,Hypertension,Maintain
+Bilal,49,Female,157,75,Active,Diabetes,Maintain
+Zara,30,Female,156,59,Sedentary,Hypertension,Maintain
+Ibrahim,64,Female,156,45,Light,Hypertension,Weight Gain
+Farhan,22,Female,148,60,Light,Hypertension,Weight Loss
+Maryam,45,Male,183,75,Active,Allergy: Wheat,Weight Gain
+Sana,42,Male,177,71,Moderate,Hypertension,Maintain
+Bilal,52,Male,164,69,Active,Hypertension,Weight Gain
+Maryam,25,Female,155,57,Light,Allergy: Nuts,Maintain
+Bilal,73,Male,170,84,Active,Allergy: Seafood,Weight Gain
+Abdullah,63,Male,171,80,Active,Hypertension,Weight Loss
+Ahmed,19,Female,148,60,Moderate,Diabetes,Weight Gain
+Salman,56,Female,154,78,Moderate,Diabetes,Maintain
+Anaya,68,Female,157,73,Active,Hypertension,Maintain
+Danish,54,Female,157,58,Moderate,Diabetes,Weight Loss
+Kamran,24,Female,167,56,Active,Hypertension,Weight Loss
+Sarmad,62,Male,169,56,Light,None,Maintain
+Noor,41,Female,164,51,Light,Diabetes,Maintain
+Zeeshan,55,Female,165,51,Active,Allergy: Wheat,Weight Gain
+Huzaifa,53,Female,158,80,Moderate,Diabetes,Maintain
+Zubair,41,Female,161,52,Moderate,Allergy: Egg,Weight Loss
+Rehan,45,Female,151,53,Active,None,Weight Loss
+Mariam,28,Female,159,46,Active,Allergy: Seafood,Maintain
+Maryam,25,Female,158,71,Light,Diabetes,Weight Loss
+Rayyan,19,Male,172,76,Active,Allergy: Wheat,Weight Gain
+Imran,21,Male,171,73,Moderate,Allergy: Wheat,Weight Loss
+Anaya,25,Female,167,70,Sedentary,Allergy: Egg,Weight Loss
+Komal,61,Female,156,46,Moderate,Allergy: Wheat,Maintain
+Adnan,58,Male,168,87,Moderate,Allergy: Wheat,Weight Loss
+Mahad,63,Female,167,50,Active,Diabetes,Weight Loss
+Zubair,25,Female,156,70,Moderate,Diabetes,Weight Loss
+Noor,53,Male,180,62,Active,Diabetes,Maintain
+Fahad,37,Female,164,66,Active,Diabetes,Weight Loss
+Areeba,35,Female,169,94,Light,Diabetes,Maintain
+Sumaira,59,Female,162,71,Moderate,Allergy: Nuts,Maintain
+Iqra,54,Male,160,57,Sedentary,Hypertension,Weight Loss
+Ahmed,55,Female,164,66,Sedentary,Diabetes,Maintain
+Sumaira,48,Male,170,94,Moderate,Diabetes,Weight Loss
+Shahmeer,34,Male,168,77,Moderate,Hypertension,Weight Gain
+Saif,39,Male,185,100,Light,Hypertension,Maintain
+Komal,65,Female,162,63,Sedentary,None,Weight Loss
+Mahad,69,Female,159,49,Sedentary,Allergy: Nuts,Weight Loss
+Anaya,21,Female,158,74,Active,Allergy: Seafood,Weight Loss
+Naveed,73,Female,159,65,Moderate,Allergy: Wheat,Weight Loss
+Imran,30,Male,170,74,Moderate,Allergy: Egg,Weight Loss
+Kashif,65,Female,166,86,Active,Allergy: Seafood,Weight Loss
+Farhan,45,Female,169,55,Moderate,None,Maintain
+Adil,35,Female,165,88,Moderate,Allergy: Nuts,Weight Loss
+Adnan,41,Female,157,49,Moderate,Hypertension,Maintain
+Mahad,18,Female,159,58,Active,Allergy: Mushroom,Weight Loss
+Sarmad,46,Female,146,55,Moderate,None,Weight Loss
+Ahmed,28,Male,166,78,Light,Allergy: Wheat,Weight Loss
+Hina,63,Female,161,73,Light,Allergy: Egg,Weight Loss
+Zayan,52,Male,168,77,Moderate,Allergy: Wheat,Weight Gain
+Saif,42,Male,164,79,Active,Allergy: Wheat,Weight Loss
+Haris,37,Male,167,53,Active,Hypertension,Weight Loss
+Rabia,72,Female,165,79,Active,Hypertension,Maintain
+Nida,65,Female,147,61,Light,Diabetes,Weight Loss
+Huda,33,Male,165,79,Active,Allergy: Mushroom,Weight Loss
+Hira,36,Male,155,58,Sedentary,Diabetes,Maintain
+Maryam,32,Female,172,79,Moderate,Diabetes,Weight Loss
+Mahad,57,Male,171,66,Moderate,Allergy: Seafood,Weight Loss
+Kashif,31,Male,168,70,Active,Allergy: Seafood,Weight Loss
+Hussain,42,Female,149,70,Sedentary,Allergy: Nuts,Maintain
+Mahad,18,Male,178,88,Moderate,Diabetes,Weight Loss
+Muhammad,43,Female,159,57,Moderate,Diabetes,Maintain
+Hafsa,62,Female,167,55,Moderate,None,Weight Loss
+Talha,38,Female,166,84,Sedentary,Hypertension,Weight Loss
+Khadija,62,Male,174,61,Active,Diabetes,Weight Loss
+Shahmeer,36,Female,163,71,Moderate,None,Maintain
+Ibrahim,67,Male,150,67,Sedentary,Diabetes,Weight Loss
+Fizan,41,Male,175,85,Light,None,Weight Loss
+Zeeshan,27,Female,167,75,Light,None,Weight Gain
+Sarmad,53,Female,159,63,Active,Diabetes,Maintain
+Imran,53,Male,167,64,Light,Allergy: Wheat,Weight Loss
+Sarmad,44,Male,180,71,Sedentary,Allergy: Seafood,Maintain
+Eman,37,Female,166,55,Active,Allergy: Seafood,Weight Loss
+Yusuf,55,Male,178,69,Sedentary,None,Weight Loss
+Yusra,43,Female,163,75,Light,Allergy: Nuts,Weight Loss
+Farhan,71,Female,177,86,Active,Allergy: Seafood,Weight Loss
+Khadija,42,Male,174,94,Light,Allergy: Seafood,Maintain
+Anas,23,Female,168,65,Moderate,None,Weight Loss
+Hassan,74,Female,162,57,Light,Allergy: Wheat,Weight Loss
+Sameer,53,Male,165,54,Light,Allergy: Seafood,Weight Gain
+Zeeshan,28,Male,169,66,Sedentary,None,Maintain
+Zainab,63,Female,164,60,Light,Allergy: Wheat,Maintain
+Huda,33,Male,175,65,Moderate,None,Weight Loss
+Kamran,29,Male,174,77,Light,Diabetes,Maintain
+Fatima,33,Male,167,74,Active,Allergy: Seafood,Weight Loss
+Usman,69,Female,161,58,Light,Hypertension,Weight Gain
+Kamran,28,Female,159,55,Moderate,Hypertension,Weight Loss
+Khadija,72,Male,173,85,Active,None,Weight Loss
+Imran,29,Female,149,43,Moderate,Hypertension,Weight Loss
+Eman,39,Female,162,55,Active,Allergy: Wheat,Maintain
+Zubair,60,Female,153,47,Active,None,Maintain
+Mahnoor,42,Female,166,73,Active,Diabetes,Weight Loss
+Danish,45,Male,171,73,Sedentary,Diabetes,Maintain
+Fahad,20,Male,173,95,Active,Diabetes,Weight Gain
+Muhammad,59,Female,157,66,Light,Hypertension,Weight Loss
+Kamran,59,Female,153,44,Moderate,None,Weight Gain
+Anaya,34,Female,165,62,Sedentary,Allergy: Seafood,Maintain
+Fatima,38,Male,168,78,Light,Allergy: Wheat,Weight Loss
+Ayesha,34,Female,164,85,Light,Diabetes,Weight Loss
+Zubair,25,Female,152,44,Active,Allergy: Mushroom,Weight Loss
+Muhammad,49,Male,177,64,Light,None,Weight Loss
+Arham,68,Female,158,61,Active,Allergy: Wheat,Maintain
+Hamza,32,Male,166,61,Light,Allergy: Nuts,Weight Loss
+Mariam,42,Female,154,60,Active,Diabetes,Maintain
+Hamza,54,Female,152,64,Light,None,Weight Loss
+Areeba,56,Female,166,64,Moderate,Hypertension,Weight Gain
+Ammar,64,Female,162,72,Sedentary,Allergy: Mushroom,Maintain
+Ayesha,18,Female,157,57,Active,Diabetes,Weight Loss
+Usman,33,Female,147,66,Light,Allergy: Nuts,Weight Gain
+Noor,19,Male,173,73,Moderate,Allergy: Egg,Weight Loss
+Ishrat,50,Male,175,75,Active,Allergy: Egg,Maintain
+Shahid,72,Male,166,52,Active,Allergy: Mushroom,Maintain
+Iqra,23,Male,158,62,Light,Allergy: Egg,Weight Loss
+Farhan,63,Female,145,42,Active,Allergy: Seafood,Weight Loss
+Kamran,56,Female,162,70,Sedentary,Allergy: Nuts,Weight Loss
+Arham,30,Female,159,64,Active,Hypertension,Weight Loss
+Huzaifa,29,Male,180,63,Light,Allergy: Nuts,Weight Loss
+Hoorain,74,Male,180,104,Moderate,Allergy: Mushroom,Weight Loss
+Rayyan,73,Male,171,68,Active,Allergy: Wheat,Weight Loss
+Maryam,50,Male,163,76,Light,Hypertension,Weight Loss
+Shahid,71,Male,177,80,Light,Allergy: Seafood,Weight Gain
+Shayan,44,Female,152,50,Moderate,Diabetes,Weight Loss
+Zara,67,Female,164,53,Moderate,Diabetes,Weight Loss
+Talha,18,Male,169,58,Active,Diabetes,Weight Gain
+Safa,20,Male,173,94,Light,Diabetes,Maintain
+Hira,67,Male,168,54,Active,Diabetes,Maintain
+Shahid,33,Male,172,88,Light,Allergy: Wheat,Weight Loss
+Sameer,18,Female,161,61,Light,Allergy: Nuts,Weight Loss
+Khadija,62,Male,162,67,Active,Allergy: Wheat,Weight Gain
+Danish,40,Female,145,54,Light,Diabetes,Weight Loss
+Azlan,63,Female,174,69,Light,Hypertension,Maintain
+Areeba,33,Male,166,76,Moderate,Allergy: Nuts,Weight Loss
+Zara,71,Female,160,54,Light,Allergy: Mushroom,Weight Gain
+Danish,47,Male,170,89,Sedentary,Hypertension,Maintain
+Laiba,51,Male,166,68,Active,Diabetes,Weight Loss
+Hira,46,Female,155,66,Active,Allergy: Seafood,Weight Gain
+Shahmeer,25,Female,165,66,Light,Allergy: Nuts,Weight Loss
+Usman,38,Female,157,63,Active,Hypertension,Weight Loss
+Saif,43,Male,173,78,Sedentary,Hypertension,Weight Gain
+Zeeshan,47,Male,172,79,Light,Allergy: Wheat,Maintain
+Usama,72,Male,167,72,Light,Allergy: Nuts,Weight Gain
+Hussain,33,Male,170,65,Sedentary,Allergy: Mushroom,Weight Loss
+Bilal,57,Female,151,51,Moderate,Hypertension,Weight Loss
+Inshrah,55,Male,183,71,Moderate,Allergy: Wheat,Weight Loss
+Shahid,53,Male,170,83,Active,Allergy: Wheat,Maintain
+Noor,58,Male,165,83,Sedentary,Allergy: Seafood,Weight Loss
+Muhammad,69,Female,163,67,Active,Allergy: Wheat,Weight Loss
+Asma,21,Female,159,50,Active,None,Weight Gain
+Haris,23,Male,171,76,Moderate,Hypertension,Weight Loss
+Ahmed,24,Female,160,58,Active,Allergy: Wheat,Maintain
+Shahzaib,57,Female,170,60,Active,Allergy: Wheat,Maintain
+Taha,56,Female,168,71,Light,Allergy: Seafood,Maintain
+Saad,74,Female,163,49,Active,Allergy: Nuts,Maintain
+Mahnoor,45,Female,166,55,Sedentary,Diabetes,Maintain
+Hoorain,40,Male,178,99,Active,Allergy: Wheat,Weight Loss
+Rehan,70,Female,156,74,Moderate,Diabetes,Weight Loss
+Sameer,46,Male,173,69,Moderate,Hypertension,Weight Loss
+Anas,23,Male,167,56,Moderate,Hypertension,Weight Loss
+Sana,49,Female,166,50,Light,Allergy: Seafood,Maintain
+Hina,35,Male,173,72,Active,Allergy: Nuts,Weight Loss
+Mahad,22,Male,169,72,Light,Diabetes,Weight Gain
+Talha,54,Female,148,65,Light,Allergy: Seafood,Weight Gain
+Sara,19,Male,164,81,Active,Allergy: Wheat,Weight Loss
+Aiman,63,Male,170,74,Active,Allergy: Wheat,Weight Loss
+Fatima,75,Female,155,49,Active,Hypertension,Weight Loss
+Sumaira,34,Female,160,75,Moderate,Allergy: Wheat,Maintain
+Noor,64,Male,165,53,Light,Diabetes,Maintain
+Asma,46,Male,179,87,Sedentary,Allergy: Wheat,Weight Loss
+Adnan,72,Male,156,63,Light,Diabetes,Weight Loss
+Shayan,72,Female,157,68,Moderate,Allergy: Nuts,Weight Loss
+Asma,34,Female,155,78,Sedentary,Diabetes,Weight Loss
+Salman,66,Male,172,56,Light,Allergy: Seafood,Maintain
+Usman,48,Female,169,93,Moderate,Diabetes,Weight Loss
+Anas,70,Female,167,80,Active,Allergy: Wheat,Weight Gain
+Huda,24,Female,151,68,Active,Allergy: Egg,Weight Loss
+Adnan,25,Female,167,87,Moderate,Allergy: Wheat,Weight Loss
+Yusuf,50,Female,162,76,Light,Allergy: Wheat,Weight Loss
+Mariam,33,Male,157,47,Light,Diabetes,Maintain
+Yusra,50,Female,164,58,Sedentary,Allergy: Wheat,Weight Loss
+Arham,60,Male,167,58,Moderate,Diabetes,Weight Loss
+Noman,43,Female,163,73,Active,Diabetes,Maintain
+Azlan,53,Male,174,75,Light,Allergy: Nuts,Weight Loss
+Hira,28,Female,156,75,Sedentary,Allergy: Nuts,Weight Loss
+Aiman,39,Male,172,56,Moderate,Allergy: Seafood,Weight Loss
+Huda,55,Male,188,75,Light,Diabetes,Maintain
+Mariam,48,Female,167,88,Light,Allergy: Mushroom,Weight Gain
+Mahad,54,Male,181,80,Moderate,None,Weight Loss
+Danish,23,Male,171,67,Light,Allergy: Seafood,Weight Loss
+Sarmad,39,Female,147,58,Sedentary,Allergy: Seafood,Maintain
+Khadija,52,Male,176,58,Light,Hypertension,Weight Loss
+Hafsa,19,Female,160,80,Sedentary,Allergy: Wheat,Weight Loss
+Mariam,29,Male,167,61,Light,Allergy: Mushroom,Weight Loss
+Rehan,54,Female,159,64,Active,None,Maintain
+Maryam,50,Female,162,69,Light,Diabetes,Weight Loss
+Sameer,62,Female,170,83,Active,Hypertension,Weight Loss
+Iqra,54,Female,148,59,Light,Hypertension,Weight Gain
+Hassan,44,Female,156,46,Active,Diabetes,Weight Loss
+Hamza,55,Male,185,105,Active,Allergy: Seafood,Weight Gain
+Hafsa,46,Female,159,77,Active,None,Maintain
+Fatima,66,Male,177,92,Sedentary,Allergy: Egg,Weight Gain
+Noman,50,Male,187,73,Light,Allergy: Wheat,Weight Loss
+Khadija,46,Female,158,71,Sedentary,Allergy: Wheat,Weight Loss
+Mahad,65,Female,159,51,Moderate,Hypertension,Weight Gain
+Ahmed,26,Male,176,98,Sedentary,Allergy: Seafood,Weight Gain
+Ayaan,58,Male,176,57,Light,Diabetes,Maintain
+Danish,43,Female,155,72,Sedentary,Allergy: Seafood,Maintain
+Shahid,30,Female,155,46,Active,None,Weight Loss
+Haris,63,Female,165,85,Sedentary,Diabetes,Weight Loss
+Zubair,42,Female,151,53,Light,Diabetes,Maintain
+Talha,58,Male,170,67,Sedentary,Allergy: Egg,Maintain
+Usman,28,Male,164,60,Light,Diabetes,Maintain
+Shahid,20,Male,165,73,Active,Allergy: Wheat,Maintain
+Bilal,21,Female,156,56,Moderate,Allergy: Egg,Weight Loss
+Kamran,44,Male,173,95,Moderate,Hypertension,Weight Loss
+Mahad,56,Female,156,77,Moderate,Hypertension,Maintain
+Farhan,35,Male,170,65,Moderate,Hypertension,Weight Loss
+Zeeshan,68,Female,170,53,Sedentary,Allergy: Egg,Weight Loss
+Dua,46,Male,180,84,Sedentary,Hypertension,Weight Loss
+Aiman,55,Female,156,51,Active,Hypertension,Weight Gain
+Ammar,18,Female,154,56,Light,Diabetes,Maintain
+Usman,48,Male,176,81,Light,Diabetes,Weight Loss
+Saad,75,Male,169,86,Active,Allergy: Mushroom,Maintain
+Hafsa,33,Male,183,106,Sedentary,None,Weight Loss
+Fizan,37,Male,183,65,Active,Hypertension,Maintain
+Azlan,34,Female,165,67,Active,Allergy: Egg,Weight Loss
+Adnan,52,Female,149,51,Moderate,Allergy: Wheat,Weight Loss
+Hina,67,Female,156,58,Active,Hypertension,Weight Loss
+Fahad,65,Male,179,70,Active,Diabetes,Weight Gain
+Kashif,50,Female,156,76,Active,Allergy: Nuts,Maintain
+Huda,49,Female,167,51,Active,Allergy: Nuts,Maintain
+Aiman,70,Female,152,49,Moderate,Hypertension,Weight Loss
+Salman,42,Male,180,77,Light,Hypertension,Maintain
+Manahil,34,Female,148,55,Active,Diabetes,Weight Loss
+Sara,62,Male,171,72,Sedentary,Hypertension,Maintain
+Taha,25,Female,145,52,Active,Diabetes,Weight Loss
+Anas,23,Female,169,52,Active,Allergy: Mushroom,Weight Loss
+Aleena,48,Male,174,97,Sedentary,Hypertension,Weight Loss
+Usama,20,Female,158,50,Active,Hypertension,Weight Gain
+Omar,26,Male,178,104,Light,Allergy: Seafood,Maintain
+Azlan,56,Male,172,79,Active,None,Weight Loss
+Asma,31,Female,152,76,Sedentary,Diabetes,Weight Loss
+Talha,43,Female,160,68,Active,Diabetes,Weight Loss
+Haris,22,Male,175,95,Light,Diabetes,Weight Loss
+Sameer,42,Male,164,66,Active,Hypertension,Weight Loss
+Areeba,45,Male,173,96,Light,Allergy: Wheat,Weight Loss
+Sarmad,57,Male,160,64,Sedentary,Hypertension,Maintain
+Kamran,70,Female,153,46,Sedentary,Allergy: Wheat,Weight Loss
+Talha,74,Male,173,62,Light,Allergy: Wheat,Weight Loss
+Taha,62,Female,168,56,Active,Allergy: Seafood,Maintain
+Hina,40,Female,165,59,Sedentary,Allergy: Nuts,Maintain
+Rayyan,54,Female,165,87,Moderate,Diabetes,Weight Gain
+Salman,32,Female,153,66,Moderate,Allergy: Nuts,Weight Gain
+Asma,70,Female,158,48,Light,Allergy: Seafood,Maintain
+Danish,55,Male,179,71,Active,Allergy: Wheat,Weight Loss
+Zayan,74,Male,161,78,Light,Diabetes,Weight Gain
+Laiba,51,Female,163,68,Active,Allergy: Egg,Weight Loss
+Shayan,55,Female,160,64,Light,Allergy: Wheat,Maintain
+Hoorain,48,Female,155,60,Moderate,Allergy: Egg,Weight Loss
+Rayyan,22,Male,164,68,Sedentary,Diabetes,Weight Loss
+Eman,28,Male,178,95,Moderate,Hypertension,Maintain
+Hassan,61,Female,159,78,Moderate,Allergy: Wheat,Weight Loss
+Hira,48,Male,174,76,Light,Allergy: Egg,Weight Loss
+Hina,66,Female,162,62,Sedentary,Diabetes,Weight Loss
+Asma,47,Male,174,82,Light,Hypertension,Weight Loss
+Mahad,22,Female,150,51,Moderate,Allergy: Seafood,Maintain
+Anaya,50,Female,160,61,Moderate,Diabetes,Weight Gain
+Shahzaib,31,Male,167,52,Active,Allergy: Seafood,Weight Loss
+Ibrahim,42,Male,153,42,Light,Diabetes,Weight Loss
+Hoorain,19,Male,162,67,Moderate,Hypertension,Maintain
+Bilal,61,Female,169,72,Sedentary,None,Maintain
+Shahmeer,45,Female,151,56,Light,Diabetes,Weight Loss
+Eman,34,Male,184,79,Light,Allergy: Mushroom,Weight Loss
+Rizwan,42,Female,160,52,Moderate,Allergy: Nuts,Weight Loss
+Farhan,51,Female,152,66,Sedentary,Diabetes,Weight Loss
+Aiman,34,Male,156,72,Active,Allergy: Seafood,Weight Loss
+Naveed,71,Female,151,42,Moderate,Hypertension,Weight Loss
+Adnan,22,Female,165,59,Light,Allergy: Egg,Weight Loss
+Fatima,50,Female,165,78,Moderate,Allergy: Egg,Weight Loss
+Taha,64,Female,157,50,Active,Allergy: Egg,Maintain
+Nida,28,Male,169,77,Active,Allergy: Seafood,Maintain
+Rabia,71,Male,176,90,Active,None,Weight Loss
+Huzaifa,58,Female,157,54,Active,Hypertension,Maintain
+Shahmeer,66,Female,146,67,Sedentary,Hypertension,Weight Loss
+Ayaan,21,Male,158,59,Moderate,Allergy: Seafood,Maintain
+Fatima,66,Female,155,66,Sedentary,Hypertension,Weight Loss
+Shahid,61,Female,161,47,Moderate,Diabetes,Weight Loss
+Zara,51,Female,167,51,Moderate,Hypertension,Weight Loss
+Hira,70,Male,173,60,Light,Allergy: Wheat,Weight Loss
+Sameer,52,Female,163,59,Light,Allergy: Mushroom,Weight Loss
+Zara,37,Male,170,81,Moderate,None,Weight Gain
+Adnan,20,Male,158,60,Sedentary,Allergy: Egg,Weight Loss
+Khadija,57,Female,161,66,Moderate,Allergy: Nuts,Maintain
+Hafsa,46,Male,169,63,Light,Diabetes,Maintain
+Rayyan,33,Female,171,53,Sedentary,Allergy: Wheat,Weight Loss
+Ahmed,49,Male,173,83,Active,None,Maintain
+Usama,33,Female,154,58,Moderate,Diabetes,Maintain
+Bilal,21,Male,176,68,Light,Diabetes,Weight Gain
+Hafsa,49,Male,170,89,Moderate,Hypertension,Weight Loss
+Danish,46,Female,160,75,Moderate,Allergy: Seafood,Maintain
+Maryam,71,Female,157,62,Sedentary,Allergy: Mushroom,Weight Loss
+Junaid,50,Male,173,98,Light,Diabetes,Weight Loss
+Aiman,65,Female,147,55,Moderate,Hypertension,Weight Loss
+Mariam,65,Male,181,99,Moderate,Hypertension,Weight Loss
+Adnan,39,Male,177,98,Active,Allergy: Egg,Weight Gain
+Anas,34,Female,169,69,Sedentary,Allergy: Wheat,Weight Loss
+Mahad,60,Female,158,49,Light,Hypertension,Weight Loss
+Ammar,71,Female,161,52,Active,Hypertension,Weight Gain
+Zeeshan,43,Female,146,56,Sedentary,None,Maintain
+Ali,24,Female,165,68,Light,Allergy: Wheat,Weight Gain
+Asma,44,Male,183,102,Sedentary,Allergy: Seafood,Weight Loss
+Ibrahim,26,Female,165,84,Moderate,Hypertension,Weight Loss
+Iqra,34,Male,168,62,Active,Allergy: Nuts,Weight Loss
+Fatima,67,Female,172,57,Light,Diabetes,Maintain
+Mahnoor,47,Female,154,70,Moderate,Hypertension,Weight Gain
+Aiman,61,Male,185,94,Light,Diabetes,Weight Loss
+Sara,49,Female,146,69,Moderate,Hypertension,Weight Loss
+Fizan,66,Male,176,63,Active,Allergy: Seafood,Maintain
+Adnan,69,Female,163,49,Moderate,Allergy: Seafood,Weight Loss
+Kashif,46,Male,169,58,Light,Allergy: Wheat,Maintain
+Sameer,71,Female,154,76,Light,Diabetes,Weight Loss
+Huzaifa,33,Female,173,90,Moderate,Hypertension,Maintain
+Shayan,73,Male,175,98,Light,Diabetes,Weight Loss
+Zubair,56,Male,169,60,Moderate,Diabetes,Weight Loss
+Naveed,60,Male,159,63,Active,Hypertension,Maintain
+Zeeshan,23,Female,160,47,Light,None,Weight Loss
+Hamza,55,Female,162,65,Sedentary,Diabetes,Maintain
+Mahad,75,Male,176,83,Sedentary,Hypertension,Weight Loss
+Hafsa,33,Female,148,48,Sedentary,Allergy: Seafood,Maintain
+Haris,41,Female,155,59,Moderate,Diabetes,Maintain
+Nida,57,Female,163,49,Sedentary,Hypertension,Maintain
+Maryam,20,Female,157,64,Light,Diabetes,Weight Loss
+Eman,38,Female,152,63,Active,Diabetes,Weight Gain
+Huda,49,Female,167,71,Moderate,Hypertension,Maintain
+Abdullah,60,Female,165,69,Active,Diabetes,Weight Loss
+Rehan,25,Male,168,77,Active,Diabetes,Weight Loss
+Adnan,67,Female,154,54,Active,Allergy: Seafood,Weight Loss
+Nida,25,Male,170,71,Light,Allergy: Wheat,Weight Loss
+Shahzaib,33,Male,167,77,Light,Hypertension,Maintain
+Naveed,48,Female,157,76,Active,Allergy: Seafood,Weight Loss
+Asma,75,Male,160,69,Active,Allergy: Mushroom,Weight Loss
+Hussain,56,Male,168,93,Sedentary,Allergy: Seafood,Weight Loss
+Komal,66,Male,179,89,Light,Diabetes,Weight Gain
+Sana,42,Male,169,52,Moderate,Allergy: Mushroom,Weight Loss
+Laiba,55,Male,170,67,Light,Allergy: Nuts,Weight Loss
+Talha,27,Female,167,87,Moderate,Hypertension,Weight Loss
+Fahad,63,Male,165,60,Sedentary,Allergy: Nuts,Weight Gain
+Rizwan,23,Female,163,64,Light,Hypertension,Maintain
+Aleena,24,Male,164,84,Sedentary,Allergy: Wheat,Maintain
+Mahad,66,Male,177,85,Active,Diabetes,Weight Loss
+Junaid,61,Male,180,90,Active,Diabetes,Maintain
+Omar,29,Male,165,71,Sedentary,Allergy: Mushroom,Maintain
+Mahad,18,Male,170,73,Active,Diabetes,Weight Loss
+Junaid,42,Female,151,48,Active,Allergy: Mushroom,Maintain
+Yusuf,28,Female,148,70,Light,None,Weight Loss
+Kashif,64,Male,170,75,Active,Hypertension,Weight Loss
+Humaira,27,Female,149,50,Light,Hypertension,Weight Loss
+Fizan,37,Female,168,55,Moderate,Allergy: Mushroom,Weight Loss
+Hussain,52,Male,183,106,Light,Allergy: Egg,Weight Loss
+Rayyan,26,Male,176,89,Light,Allergy: Wheat,Weight Loss
+Zeeshan,52,Female,163,83,Moderate,Diabetes,Maintain
+Ayesha,49,Female,165,79,Sedentary,Diabetes,Weight Loss
+Farhan,60,Female,168,59,Active,Allergy: Mushroom,Weight Loss
+Hafsa,18,Male,163,84,Moderate,Diabetes,Weight Loss
+Hafsa,46,Female,164,52,Active,Hypertension,Weight Loss
+Yusra,53,Male,164,66,Moderate,Allergy: Seafood,Weight Loss
+Fizan,49,Male,178,103,Light,Hypertension,Maintain
+Imran,62,Female,160,66,Moderate,Diabetes,Maintain
+Hamdan,19,Female,161,78,Moderate,Allergy: Seafood,Weight Loss
+Feroz,31,Male,178,88,Active,Diabetes,Maintain
+Fizan,59,Female,159,73,Light,Allergy: Mushroom,Weight Loss
+Nida,60,Male,172,92,Moderate,Allergy: Egg,Weight Loss
+Asma,51,Male,164,86,Moderate,Allergy: Seafood,Maintain
+Ayaan,75,Female,153,69,Light,Hypertension,Maintain
+Hussain,63,Male,167,87,Moderate,Allergy: Wheat,Maintain
+Sameer,60,Male,174,70,Active,Hypertension,Maintain
+Anas,40,Female,166,64,Sedentary,Allergy: Egg,Maintain
+Fahad,35,Female,164,63,Moderate,Diabetes,Weight Loss
+Hira,62,Female,154,65,Moderate,Diabetes,Weight Gain
+Saif,34,Female,163,84,Moderate,Diabetes,Weight Loss
+Sumaira,34,Female,156,79,Active,Hypertension,Weight Gain
+Shahmeer,71,Female,163,56,Moderate,Allergy: Nuts,Weight Loss
+Usama,34,Male,165,51,Active,Allergy: Seafood,Weight Loss
+Fatima,48,Female,145,42,Sedentary,Diabetes,Weight Loss
+Azlan,27,Female,159,69,Active,Allergy: Egg,Weight Loss
+Maryam,31,Female,161,67,Moderate,Allergy: Egg,Maintain
+Usama,39,Male,168,90,Light,Allergy: Seafood,Weight Loss
+Danish,34,Female,165,70,Light,Allergy: Seafood,Maintain
+Usama,37,Female,154,73,Active,Allergy: Nuts,Weight Loss
+Ali,28,Male,160,63,Light,Allergy: Wheat,Weight Loss
+Areeba,38,Male,167,84,Light,Diabetes,Weight Gain
+Aiman,63,Female,154,68,Light,Allergy: Wheat,Weight Loss
+Abdullah,60,Male,169,71,Active,Diabetes,Weight Loss
+Omar,31,Female,176,82,Light,Allergy: Seafood,Maintain
+Eman,45,Female,158,60,Moderate,Allergy: Wheat,Maintain
+Hina,74,Female,150,46,Active,Allergy: Mushroom,Weight Loss
+Anaya,18,Female,149,64,Light,Allergy: Seafood,Weight Loss
+Salman,69,Female,156,45,Light,Allergy: Mushroom,Weight Loss
+Hussain,44,Male,164,71,Active,Allergy: Seafood,Weight Loss
+Zayan,43,Female,160,54,Light,Allergy: Nuts,Weight Loss
+Ayaan,34,Female,162,59,Light,Allergy: Wheat,Weight Gain
+Ammar,42,Male,171,76,Light,Allergy: Egg,Weight Loss
+Mariam,51,Male,182,64,Light,Allergy: Wheat,Maintain
+Danish,45,Male,168,67,Moderate,Hypertension,Maintain
+Haris,75,Female,156,75,Moderate,Diabetes,Weight Loss
+Dua,74,Male,151,52,Moderate,Diabetes,Weight Gain
+Mariam,23,Male,174,72,Light,Hypertension,Weight Loss
+Zara,70,Female,157,70,Sedentary,Allergy: Wheat,Weight Loss
+Naveed,55,Male,184,97,Light,Hypertension,Weight Loss
+Mahad,28,Female,152,45,Active,None,Weight Loss
+Noor,45,Male,160,56,Active,Diabetes,Maintain
+Shahzaib,53,Female,167,52,Moderate,Allergy: Seafood,Weight Loss
+Rayyan,29,Male,176,72,Light,Diabetes,Weight Loss
+Usama,68,Female,167,72,Active,Allergy: Egg,Maintain
+Kashif,69,Male,161,85,Light,Diabetes,Weight Loss
+Mahad,42,Male,175,74,Active,Diabetes,Maintain
+Arham,50,Male,170,70,Sedentary,Allergy: Seafood,Weight Loss
+Sana,46,Female,164,76,Active,Allergy: Mushroom,Maintain
+Aiman,71,Female,167,56,Moderate,Allergy: Mushroom,Maintain
+Nida,39,Male,163,59,Sedentary,Allergy: Seafood,Weight Loss
+Sara,71,Female,152,76,Moderate,Allergy: Nuts,Weight Loss
+Ayesha,56,Female,150,64,Moderate,Diabetes,Maintain
+Hussain,46,Female,145,47,Light,Hypertension,Maintain
+Sara,63,Male,175,94,Active,Allergy: Egg,Weight Loss
+Abdullah,38,Male,161,78,Moderate,Diabetes,Weight Loss
+Ayesha,45,Male,181,76,Sedentary,Allergy: Mushroom,Weight Loss
+Zara,47,Male,173,90,Sedentary,Diabetes,Weight Loss
+Ahmed,40,Female,156,50,Moderate,Allergy: Egg,Weight Loss
+Ayaan,39,Male,175,70,Light,Allergy: Mushroom,Weight Loss
+Farhan,37,Male,164,87,Active,Hypertension,Weight Loss
+Areeba,66,Female,146,62,Moderate,Allergy: Wheat,Weight Loss
+Noor,52,Male,161,67,Light,Diabetes,Maintain
+Taha,56,Male,174,85,Sedentary,Allergy: Wheat,Maintain
+Huzaifa,38,Male,167,66,Light,Diabetes,Maintain
+Noor,46,Female,174,92,Moderate,Diabetes,Weight Loss
+Aiman,22,Male,161,84,Moderate,Diabetes,Maintain
+Danish,49,Female,145,61,Active,Allergy: Seafood,Maintain
+Zainab,63,Female,158,68,Light,Allergy: Seafood,Maintain
+Rizwan,26,Female,164,50,Light,Allergy: Wheat,Weight Loss
+Yusra,26,Male,168,80,Moderate,Hypertension,Weight Loss
+Nida,61,Female,158,60,Moderate,None,Weight Loss
+Eesa,39,Female,166,60,Moderate,Allergy: Egg,Weight Loss
+Arham,43,Male,176,74,Light,Diabetes,Weight Gain
+Danish,27,Female,153,67,Light,None,Weight Loss
+Hina,63,Male,164,58,Active,Diabetes,Maintain
+Ahmed,52,Male,175,57,Sedentary,None,Weight Loss
+Danish,47,Female,149,51,Active,Diabetes,Weight Loss
+Salman,32,Female,160,54,Active,Diabetes,Maintain
+Shahmeer,29,Female,172,53,Moderate,Allergy: Seafood,Weight Loss
+Laiba,69,Male,176,62,Active,Allergy: Wheat,Maintain
+Omar,22,Female,160,61,Active,Diabetes,Weight Loss
+Hoorain,51,Male,169,91,Moderate,Allergy: Wheat,Weight Loss
+Fahad,31,Male,157,49,Active,Diabetes,Weight Loss
+Rehan,75,Male,177,62,Moderate,Diabetes,Weight Loss
+Fizan,50,Female,163,75,Active,Allergy: Nuts,Weight Loss
+Nida,21,Female,154,66,Moderate,Allergy: Wheat,Maintain
+Sarmad,29,Female,167,61,Moderate,Allergy: Mushroom,Maintain
+Hira,75,Male,170,73,Light,Allergy: Mushroom,Weight Loss
+Haris,71,Male,181,93,Active,Allergy: Wheat,Maintain
+Fatima,45,Female,148,61,Active,Diabetes,Maintain
+Shahmeer,25,Female,157,66,Active,Diabetes,Maintain
+Taha,74,Male,177,102,Moderate,Diabetes,Weight Loss
+Saad,18,Male,165,50,Active,Diabetes,Maintain
+Rayyan,35,Female,164,57,Moderate,Diabetes,Weight Loss
+Danish,69,Female,158,48,Moderate,Allergy: Wheat,Weight Loss
+Mahad,33,Female,164,57,Active,Diabetes,Weight Loss
+Haris,67,Female,166,54,Active,Allergy: Mushroom,Weight Loss
+Dua,45,Female,160,82,Moderate,Diabetes,Weight Loss
+Yusuf,69,Female,163,81,Moderate,Allergy: Mushroom,Maintain
+Zara,43,Female,159,66,Light,Allergy: Mushroom,Weight Loss
+Sumaira,34,Female,166,90,Active,Allergy: Mushroom,Weight Loss
+Taha,48,Male,181,78,Moderate,Diabetes,Weight Loss
+Saif,67,Male,163,61,Light,Allergy: Wheat,Weight Loss
+Hamza,67,Female,160,65,Light,Diabetes,Maintain
+Dua,42,Male,166,52,Moderate,Allergy: Seafood,Weight Loss
+Eman,18,Male,175,78,Moderate,Allergy: Wheat,Maintain
+Sarmad,57,Male,170,55,Light,Hypertension,Weight Loss
+Shahid,47,Female,167,69,Moderate,Allergy: Wheat,Weight Gain
+Farhan,62,Female,155,60,Active,Allergy: Mushroom,Weight Loss
+Rayyan,51,Male,181,65,Sedentary,Allergy: Wheat,Maintain
+Hassan,26,Male,153,49,Moderate,Diabetes,Weight Loss
+Noman,27,Female,159,53,Light,Allergy: Seafood,Weight Loss
+Hussain,58,Male,166,87,Moderate,Diabetes,Maintain
+Rayyan,39,Male,165,75,Light,Allergy: Nuts,Weight Gain
+Zayan,23,Female,161,71,Sedentary,Allergy: Wheat,Weight Gain
+Shayan,63,Male,183,61,Active,Allergy: Wheat,Maintain
+Maryam,57,Female,166,71,Active,Hypertension,Weight Loss
+Imran,25,Male,180,79,Active,Allergy: Wheat,Weight Loss
+Eman,72,Female,155,72,Active,Diabetes,Maintain
+Azlan,64,Female,156,56,Moderate,None,Weight Loss
+Hassan,20,Female,152,75,Active,Diabetes,Maintain
+Sameer,74,Female,153,76,Light,Diabetes,Maintain
+Noman,66,Male,164,87,Sedentary,Hypertension,Maintain
+Eman,25,Male,166,77,Moderate,Allergy: Nuts,Weight Loss
+Anaya,44,Female,167,88,Moderate,Allergy: Egg,Weight Loss
+Kashif,30,Female,170,60,Moderate,Allergy: Mushroom,Weight Loss
+Sana,24,Female,167,78,Sedentary,Allergy: Egg,Maintain
+Zayan,57,Female,164,53,Moderate,Allergy: Mushroom,Weight Loss
+Taha,31,Male,183,64,Sedentary,Allergy: Wheat,Weight Loss
+Shahmeer,21,Male,165,76,Light,Allergy: Mushroom,Weight Loss
+Rizwan,38,Male,164,87,Moderate,Hypertension,Weight Gain
+Fatima,30,Female,155,46,Active,Diabetes,Weight Loss
+Hina,46,Male,168,55,Active,Allergy: Wheat,Weight Loss
+Dua,19,Female,153,60,Light,Diabetes,Maintain
+Zayan,37,Male,163,48,Sedentary,Diabetes,Weight Loss
+Mariam,32,Female,148,53,Light,Allergy: Mushroom,Maintain
+Hira,54,Male,166,73,Active,Allergy: Seafood,Maintain
+Haris,56,Male,159,46,Moderate,None,Maintain
+Haris,74,Female,167,84,Sedentary,Diabetes,Weight Loss
+Bilal,25,Female,163,57,Active,Hypertension,Weight Loss
+Shahmeer,45,Female,160,80,Moderate,Allergy: Wheat,Maintain
+Hira,43,Female,164,70,Moderate,Allergy: Wheat,Weight Loss
+Bilal,31,Female,168,91,Moderate,Diabetes,Maintain
+Mariam,37,Female,164,57,Active,Hypertension,Weight Loss
+Anaya,48,Female,180,85,Sedentary,Hypertension,Weight Loss
+Omar,52,Male,171,62,Active,Diabetes,Maintain
+Ammar,74,Male,175,80,Moderate,Diabetes,Weight Loss
+Hafsa,69,Female,154,57,Active,Allergy: Mushroom,Weight Loss
+Naveed,24,Male,169,80,Moderate,Allergy: Seafood,Weight Loss
+Sara,32,Female,150,43,Active,Hypertension,Maintain
+Rizwan,53,Male,164,59,Moderate,Hypertension,Weight Loss
+Rayyan,18,Male,166,76,Light,Hypertension,Weight Loss
+Sara,62,Male,172,84,Light,Allergy: Mushroom,Maintain
+Sarmad,69,Male,180,94,Moderate,Allergy: Wheat,Maintain
+Shahmeer,52,Male,162,54,Light,Allergy: Seafood,Maintain
+Ayaan,26,Male,165,69,Active,Hypertension,Weight Loss
+Sana,64,Female,148,41,Active,Hypertension,Weight Loss
+Noman,65,Male,158,80,Moderate,Diabetes,Weight Loss
+Ahmed,54,Male,166,58,Light,Diabetes,Maintain
+Mariam,20,Female,152,47,Active,Allergy: Seafood,Weight Loss
+Noor,54,Male,168,73,Light,Diabetes,Weight Loss
+Sarmad,41,Male,171,68,Moderate,Diabetes,Weight Loss
+Hoorain,74,Female,157,49,Sedentary,Allergy: Wheat,Maintain
+Yusuf,57,Female,159,51,Active,Allergy: Wheat,Weight Gain
+Ahmed,62,Male,163,78,Moderate,Allergy: Wheat,Weight Loss
+Haris,51,Female,159,77,Moderate,Diabetes,Weight Loss
+Eman,49,Female,154,44,Light,Diabetes,Weight Loss
+Adnan,59,Male,173,80,Active,Diabetes,Maintain
+Taha,27,Female,154,58,Active,None,Weight Loss
+Azlan,50,Female,162,63,Moderate,Allergy: Mushroom,Maintain
+Khadija,70,Male,177,59,Moderate,None,Weight Loss
+Hamza,74,Male,173,87,Sedentary,Diabetes,Maintain
+Anas,41,Male,168,57,Light,Hypertension,Weight Loss
+Shahmeer,29,Male,195,74,Moderate,None,Weight Loss
+Ahmed,18,Female,165,57,Active,Allergy: Mushroom,Maintain
+Mahad,39,Female,163,75,Light,Allergy: Seafood,Maintain
+Eesa,24,Female,145,38,Sedentary,Diabetes,Weight Loss
+Fizan,58,Female,164,82,Moderate,Allergy: Wheat,Weight Loss
+Mahnoor,57,Male,157,50,Moderate,Diabetes,Weight Loss
+Mariam,21,Female,162,72,Active,Allergy: Wheat,Weight Loss
+Talha,31,Male,182,65,Moderate,None,Maintain
+Shahid,59,Male,176,83,Light,Allergy: Seafood,Weight Loss
+Ayaan,20,Male,183,66,Active,Diabetes,Weight Gain
+Imran,46,Female,156,58,Active,Allergy: Mushroom,Weight Loss
+Rayyan,19,Female,155,51,Moderate,Allergy: Wheat,Maintain
+Danish,48,Male,177,64,Sedentary,Hypertension,Weight Loss
+Maryam,28,Male,174,93,Light,Allergy: Nuts,Weight Loss
+Noor,26,Female,167,83,Moderate,Hypertension,Weight Loss
+Noor,37,Male,173,66,Moderate,Diabetes,Weight Loss
+Junaid,35,Female,153,66,Moderate,Hypertension,Weight Loss
+Hira,40,Female,158,71,Active,Allergy: Egg,Maintain
+Yusra,58,Female,160,71,Sedentary,Allergy: Mushroom,Maintain
+Ali,60,Male,172,85,Moderate,Allergy: Seafood,Weight Loss
+Mahad,35,Female,166,56,Light,Allergy: Wheat,Weight Loss
+Zayan,35,Female,151,71,Light,None,Weight Loss
+Azlan,47,Female,166,83,Active,Hypertension,Weight Loss
+Yusra,70,Female,167,69,Active,Diabetes,Weight Loss
+Hina,69,Male,168,92,Active,Allergy: Mushroom,Maintain
+Arham,20,Female,159,67,Moderate,Hypertension,Weight Loss
+Sumaira,70,Male,169,87,Moderate,Allergy: Mushroom,Weight Loss
+Areeba,35,Male,167,89,Active,Allergy: Wheat,Weight Gain
+Hira,33,Male,167,85,Light,Allergy: Wheat,Weight Loss
+Huda,37,Female,156,63,Sedentary,Allergy: Wheat,Maintain
+Bilal,21,Female,170,61,Light,Allergy: Mushroom,Maintain
+Muhammad,74,Female,157,81,Moderate,Allergy: Wheat,Maintain
+Imran,45,Female,152,66,Light,Hypertension,Weight Loss
+Azlan,44,Male,182,86,Sedentary,Allergy: Wheat,Weight Loss
+Danish,29,Female,160,52,Active,Diabetes,Weight Loss
+Nida,52,Male,167,52,Active,Allergy: Egg,Weight Gain
+Sumaira,48,Male,177,68,Moderate,Allergy: Wheat,Maintain
+Abdullah,34,Female,159,68,Moderate,Allergy: Nuts,Weight Gain
+Bilal,52,Male,175,86,Sedentary,Diabetes,Maintain
+Noor,20,Female,176,75,Light,Allergy: Mushroom,Weight Loss
+Taha,19,Female,157,60,Sedentary,Hypertension,Maintain
+Komal,28,Male,164,68,Active,Allergy: Mushroom,Maintain
+Adnan,37,Female,159,55,Active,None,Maintain
+Junaid,61,Male,170,64,Active,None,Weight Loss
+Hamza,66,Female,161,71,Active,Allergy: Nuts,Weight Loss
+Komal,42,Male,171,71,Moderate,Allergy: Seafood,Weight Gain
+Anas,68,Female,159,54,Light,Allergy: Egg,Maintain
+Noor,40,Female,159,53,Sedentary,Allergy: Mushroom,Weight Loss
+Yusra,46,Male,180,104,Moderate,Diabetes,Weight Loss
+Omar,29,Female,163,85,Light,Hypertension,Weight Gain
+Zara,38,Female,154,65,Active,Hypertension,Maintain
+Iqra,22,Male,175,73,Moderate,Hypertension,Weight Loss
+Shahid,43,Female,175,96,Light,Hypertension,Weight Loss
+Mahnoor,60,Female,156,67,Light,Hypertension,Weight Loss
+Taha,63,Female,162,75,Active,Allergy: Wheat,Weight Loss
+Fahad,74,Male,173,91,Moderate,Allergy: Nuts,Weight Loss
+Sara,23,Female,147,50,Light,Allergy: Nuts,Weight Loss
+Muhammad,48,Female,157,57,Active,Allergy: Mushroom,Weight Loss
+Ahmed,40,Female,170,58,Light,Allergy: Mushroom,Weight Loss
+Omar,46,Female,153,52,Moderate,Hypertension,Maintain
+Khadija,73,Male,180,98,Active,Diabetes,Weight Loss
+Azlan,74,Male,169,61,Sedentary,Allergy: Mushroom,Maintain
+Zainab,21,Male,180,91,Moderate,Hypertension,Weight Loss
+Hoorain,28,Male,171,90,Active,Hypertension,Weight Loss
+Hussain,55,Male,159,79,Light,Diabetes,Weight Loss
+Sidqiah,19,Female,166,54,Active,Allergy: Wheat,Maintain
+Rabia,73,Male,157,67,Moderate,Allergy: Seafood,Maintain
+Danish,18,Female,154,55,Sedentary,Hypertension,Weight Loss
+Rabia,30,Male,176,62,Light,Allergy: Egg,Weight Loss
+Huda,58,Female,173,78,Light,Diabetes,Maintain
+Noman,25,Male,168,88,Light,Diabetes,Weight Gain
+Shahid,20,Female,158,48,Moderate,Allergy: Wheat,Weight Loss
+Aleena,44,Male,174,63,Light,Diabetes,Maintain
+Danish,45,Female,163,58,Moderate,Allergy: Egg,Weight Loss
+Danish,64,Male,175,95,Moderate,Allergy: Seafood,Maintain
+Zainab,29,Female,165,51,Active,Allergy: Egg,Weight Loss
+Kashif,42,Male,182,107,Light,Allergy: Seafood,Weight Loss
+Imran,74,Male,164,70,Active,Allergy: Egg,Weight Loss
+Noman,61,Female,160,52,Active,Allergy: Mushroom,Weight Loss
+Eesa,55,Female,161,49,Active,Hypertension,Weight Loss
+Usman,50,Female,156,53,Active,Allergy: Nuts,Maintain
+Khadija,49,Male,175,91,Moderate,None,Weight Loss
+Rayyan,73,Female,159,81,Light,Hypertension,Maintain
+Hafsa,55,Female,153,42,Light,None,Weight Loss
+Saad,64,Male,177,102,Active,Diabetes,Weight Loss
+Shayan,63,Female,156,67,Light,Hypertension,Weight Loss
+Shahzaib,59,Female,146,65,Active,Allergy: Nuts,Weight Loss
+Usman,25,Female,159,76,Sedentary,Diabetes,Maintain
+Saad,53,Male,184,77,Sedentary,Allergy: Nuts,Weight Loss
+Usama,57,Male,169,56,Active,Diabetes,Weight Loss
+Zainab,52,Female,164,53,Active,Allergy: Seafood,Maintain
+Hira,28,Female,155,56,Active,Hypertension,Weight Loss
+Ali,66,Female,160,49,Light,Hypertension,Weight Loss
+Fizan,25,Female,158,62,Light,Diabetes,Weight Gain
+Salman,36,Female,164,87,Light,Allergy: Wheat,Weight Loss
+Summiya,22,Female,172,77,Active,Allergy: Mushroom,Weight Loss
+Dua,58,Female,158,56,Moderate,Allergy: Seafood,Weight Gain
+Mahnoor,62,Female,167,68,Moderate,None,Weight Loss
+Mariam,29,Female,157,47,Light,Allergy: Mushroom,Weight Loss
+Asma,45,Female,164,53,Active,Allergy: Mushroom,Weight Loss
+Naveed,57,Male,171,81,Light,Allergy: Seafood,Maintain
+Iqra,21,Female,161,67,Moderate,Allergy: Mushroom,Maintain
+Hamza,22,Female,156,62,Moderate,Allergy: Seafood,Weight Gain
+Naveed,65,Female,149,64,Sedentary,Diabetes,Weight Loss
+Zayan,36,Male,164,62,Active,Diabetes,Weight Loss
+Komal,19,Female,147,65,Active,Allergy: Wheat,Weight Loss
+Mahad,28,Male,164,55,Active,Allergy: Egg,Weight Loss
+Hira,24,Male,180,98,Active,Diabetes,Weight Loss
+Ayaan,40,Female,164,65,Active,Allergy: Egg,Maintain
+Eesa,34,Female,148,55,Sedentary,Allergy: Nuts,Maintain
+Muhammad,52,Male,167,87,Moderate,Hypertension,Maintain
+Rizwan,54,Female,163,59,Moderate,Diabetes,Maintain
+Rabia,26,Male,170,73,Sedentary,Allergy: Seafood,Maintain
+Hira,63,Male,180,106,Moderate,Diabetes,Weight Loss
+Junaid,26,Female,157,53,Moderate,Hypertension,Weight Gain
+Ayesha,73,Male,173,65,Moderate,None,Weight Loss
+Hussain,73,Female,169,69,Active,Allergy: Wheat,Maintain
+Fahad,30,Male,164,64,Moderate,Allergy: Seafood,Weight Loss
+Noor,66,Male,169,65,Sedentary,Diabetes,Weight Loss
+Bilal,41,Male,159,57,Active,Allergy: Nuts,Weight Loss
+Hassan,20,Female,157,56,Light,None,Weight Loss
+Rizwan,18,Male,181,97,Active,Allergy: Nuts,Weight Loss
+Hoorain,49,Female,160,83,Light,Allergy: Mushroom,Weight Loss
+Zubair,53,Male,169,61,Sedentary,Hypertension,Weight Loss
+Huda,75,Female,164,74,Moderate,Diabetes,Weight Loss
+Taha,26,Male,168,59,Active,Hypertension,Maintain
+Usman,53,Female,163,78,Active,Allergy: Egg,Weight Loss
+Ayesha,33,Male,162,68,Light,Diabetes,Weight Loss
+Danish,28,Male,155,77,Light,Allergy: Wheat,Maintain
+Ali,51,Male,166,60,Light,Allergy: Wheat,Maintain
+Hamza,44,Male,165,89,Active,Hypertension,Weight Gain
+Rayyan,74,Male,166,69,Sedentary,Diabetes,Maintain
+Zeeshan,67,Male,178,79,Active,Diabetes,Maintain
+Ali,64,Male,167,54,Sedentary,Allergy: Wheat,Maintain
+Hira,38,Male,171,86,Light,Diabetes,Weight Loss
+Zainab,43,Male,170,58,Active,Hypertension,Maintain
+Rehan,71,Female,163,70,Light,None,Weight Loss
+Azlan,65,Male,177,58,Light,Allergy: Seafood,Weight Gain
+Huda,41,Female,151,57,Active,Allergy: Nuts,Maintain
+Rabia,18,Female,161,62,Moderate,Allergy: Seafood,Maintain
+Azlan,26,Female,166,91,Active,Diabetes,Maintain
+Imran,75,Female,156,74,Active,Allergy: Nuts,Weight Loss
+Sara,63,Male,181,59,Light,Allergy: Mushroom,Weight Loss
+Yusra,37,Female,159,48,Sedentary,Hypertension,Maintain
+Shahzaib,57,Male,179,85,Moderate,Diabetes,Maintain
+Ali,35,Male,168,73,Sedentary,Allergy: Egg,Maintain
+Maryam,66,Female,154,58,Active,Allergy: Seafood,Weight Loss
+Haris,19,Male,176,58,Light,Hypertension,Maintain
+Fizan,52,Male,170,61,Sedentary,Allergy: Mushroom,Weight Loss
+Sumaira,66,Female,162,74,Sedentary,Allergy: Mushroom,Maintain
+Ali,47,Male,168,68,Active,Diabetes,Weight Loss
+Omar,64,Male,176,60,Moderate,None,Weight Gain
+Kashif,69,Male,170,68,Moderate,None,Weight Loss
+Maryam,19,Male,176,60,Active,Hypertension,Weight Loss
+Saif,50,Female,176,82,Sedentary,Allergy: Mushroom,Weight Gain
+Omar,30,Male,186,108,Sedentary,None,Weight Loss
+Zara,57,Male,169,55,Sedentary,Diabetes,Weight Loss
+Hamna,32,Female,164,76,Moderate,Diabetes,Weight Gain
+Zayan,25,Female,145,62,Active,Diabetes,Weight Loss
+Sameer,45,Male,181,88,Active,Allergy: Seafood,Weight Loss
+Komal,30,Female,154,76,Active,Allergy: Wheat,Weight Loss
+Zubair,42,Male,172,69,Light,Hypertension,Weight Loss
+Sameer,32,Male,175,65,Moderate,Allergy: Nuts,Maintain
+Noor,50,Female,157,75,Light,Allergy: Wheat,Weight Loss
+Haris,56,Female,145,46,Sedentary,Allergy: Nuts,Weight Gain
+Hussain,56,Male,179,59,Light,Diabetes,Weight Gain
+Kamran,48,Male,171,79,Light,Allergy: Egg,Weight Gain
+Hira,20,Female,163,72,Active,Allergy: Seafood,Weight Loss
+Shahzaib,55,Male,171,93,Sedentary,Allergy: Seafood,Weight Loss
+Aleena,27,Male,172,95,Light,Allergy: Seafood,Weight Loss
+Fizan,69,Male,173,58,Active,Allergy: Wheat,Maintain
+Talha,36,Male,164,63,Active,Diabetes,Weight Loss
+Hafsa,67,Female,159,80,Light,Allergy: Nuts,Weight Gain
+Ahmed,31,Female,172,59,Moderate,Hypertension,Weight Loss
+Rabia,21,Male,173,88,Light,Hypertension,Weight Loss
+Junaid,35,Male,165,67,Sedentary,None,Maintain
+Shahmeer,57,Female,155,69,Sedentary,Allergy: Seafood,Weight Loss
+Naveed,63,Male,166,59,Moderate,Diabetes,Maintain
+Yusuf,45,Female,165,66,Moderate,Allergy: Nuts,Maintain
+Naveed,30,Female,161,60,Active,Diabetes,Weight Loss
+Zayan,24,Male,172,81,Active,Diabetes,Weight Loss
+Ayesha,41,Female,165,80,Moderate,Allergy: Wheat,Weight Loss
+Saad,28,Male,163,83,Sedentary,Diabetes,Weight Gain
+Azlan,59,Male,162,51,Active,Allergy: Mushroom,Weight Loss
+Farhan,31,Female,157,68,Active,Hypertension,Maintain
+Sameer,54,Male,183,99,Moderate,Diabetes,Weight Loss
+Fatima,18,Male,162,54,Moderate,Allergy: Nuts,Weight Loss
+Asma,45,Female,154,75,Moderate,Hypertension,Weight Loss
+Hira,47,Male,166,71,Moderate,Allergy: Seafood,Weight Loss
+Maryam,22,Female,168,57,Light,Allergy: Wheat,Weight Loss
+Rayyan,36,Male,152,65,Active,Diabetes,Weight Loss
+Anas,22,Female,149,61,Moderate,Hypertension,Weight Loss
+Kashif,18,Female,150,47,Sedentary,Allergy: Nuts,Weight Loss
+Arham,48,Female,161,76,Moderate,Allergy: Seafood,Weight Loss
+Anaya,73,Female,162,81,Active,Hypertension,Weight Loss
+Ibrahim,63,Female,160,84,Sedentary,Allergy: Egg,Maintain
+Taha,70,Female,157,70,Active,Hypertension,Weight Gain
+Azlan,19,Male,184,101,Active,Allergy: Egg,Weight Loss
+Rayyan,65,Female,162,73,Active,Hypertension,Weight Loss
+Abdullah,56,Female,160,59,Sedentary,Diabetes,Weight Loss
+Zayan,20,Male,159,83,Moderate,Diabetes,Maintain
+Shahmeer,54,Female,161,56,Light,Diabetes,Weight Loss
+Khadija,20,Male,176,87,Active,Diabetes,Weight Loss
+Zara,55,Male,160,63,Sedentary,Allergy: Mushroom,Weight Loss
+Mahnoor,61,Female,153,44,Moderate,None,Weight Loss
+Usama,74,Male,159,81,Active,Allergy: Seafood,Maintain
+Sarmad,21,Male,163,86,Active,Diabetes,Weight Loss
+Asma,50,Male,179,95,Active,Allergy: Seafood,Maintain
+Zubair,73,Male,168,86,Active,Diabetes,Maintain
+Mariam,62,Female,152,52,Sedentary,Diabetes,Maintain
+Zeeshan,22,Male,184,85,Active,Allergy: Wheat,Weight Gain
+Yusuf,32,Female,156,73,Light,Diabetes,Weight Loss
+Dua,33,Male,161,81,Active,Allergy: Mushroom,Weight Loss
+Sameer,42,Male,166,80,Light,Diabetes,Maintain
+Anas,38,Male,160,65,Moderate,Allergy: Mushroom,Weight Gain
+Hamza,47,Male,166,82,Moderate,Hypertension,Maintain
+Mariam,57,Female,159,82,Active,Allergy: Seafood,Maintain
+Kamran,46,Male,179,64,Active,Allergy: Wheat,Maintain
+Rayyan,42,Male,168,72,Moderate,Diabetes,Weight Loss
+Omar,65,Female,162,64,Moderate,Allergy: Mushroom,Maintain
+Arham,61,Female,166,85,Active,Allergy: Mushroom,Weight Loss
+Nida,62,Male,165,66,Sedentary,Hypertension,Maintain
+Hafsa,30,Male,160,54,Active,None,Maintain
+Fahad,59,Male,173,79,Active,Allergy: Wheat,Maintain
+Salman,66,Male,170,82,Active,Allergy: Wheat,Weight Loss
+Hamza,67,Female,171,62,Moderate,Hypertension,Weight Loss
+Talha,35,Female,159,77,Moderate,Allergy: Egg,Maintain
+Abdullah,36,Female,168,67,Active,Allergy: Seafood,Weight Loss
+Komal,50,Female,165,63,Active,Allergy: Mushroom,Weight Gain
+Areeba,51,Female,161,75,Active,Diabetes,Maintain
+Ali,69,Male,171,64,Light,Allergy: Nuts,Maintain
+Kamran,27,Female,163,84,Light,Diabetes,Weight Loss
+Azlan,33,Female,160,48,Moderate,Hypertension,Weight Loss
+Asma,45,Female,166,63,Light,Allergy: Mushroom,Maintain
+Hoorain,49,Female,159,75,Sedentary,Allergy: Egg,Maintain
+Maryam,73,Female,161,52,Active,Allergy: Nuts,Weight Loss
+Laiba,50,Female,169,59,Light,Allergy: Seafood,Maintain
+Anaya,53,Male,166,81,Light,Allergy: Wheat,Weight Loss
+Hassan,52,Male,172,78,Sedentary,Allergy: Seafood,Weight Loss
+Usman,36,Female,171,84,Moderate,Allergy: Seafood,Weight Loss
+Salman,52,Male,174,89,Light,Allergy: Nuts,Weight Loss
+Hafsa,22,Male,179,77,Active,Allergy: Nuts,Weight Loss
+Shahid,41,Female,161,69,Light,Allergy: Wheat,Weight Loss
+Noor,49,Female,152,64,Active,Allergy: Seafood,Maintain
+Ali,34,Male,163,64,Moderate,Diabetes,Weight Loss
+Usama,66,Male,158,45,Light,Allergy: Egg,Weight Loss
+Danish,52,Female,165,84,Sedentary,Hypertension,Weight Gain
+Noman,48,Female,150,48,Sedentary,Allergy: Seafood,Maintain
+Shahid,42,Female,158,76,Moderate,Allergy: Seafood,Maintain
+Junaid,74,Female,151,52,Sedentary,Hypertension,Weight Loss
+Kamran,27,Female,159,61,Sedentary,Hypertension,Weight Loss
+Arham,71,Female,157,65,Sedentary,Allergy: Egg,Weight Loss
+Ayaan,40,Female,161,55,Sedentary,Allergy: Wheat,Weight Loss
+Junaid,55,Male,169,91,Sedentary,Allergy: Egg,Maintain
+Ahmed,30,Male,175,61,Light,Allergy: Wheat,Weight Loss
+Zeeshan,55,Female,159,57,Moderate,Allergy: Wheat,Maintain
+Bilal,64,Male,169,83,Active,Hypertension,Maintain
+Hina,50,Female,161,76,Moderate,Allergy: Wheat,Weight Gain
+Eman,33,Female,162,59,Moderate,Hypertension,Weight Loss
+Zeeshan,47,Male,162,82,Moderate,Hypertension,Weight Gain
+Adnan,24,Female,152,57,Light,Diabetes,Weight Loss
+Mahnoor,41,Male,167,77,Moderate,Diabetes,Maintain
+Shayan,23,Female,171,62,Active,Allergy: Wheat,Weight Loss
+Shahid,34,Female,164,87,Active,Diabetes,Maintain
+Bilal,67,Male,184,83,Active,Allergy: Wheat,Weight Loss
+Sarmad,47,Female,157,74,Moderate,Diabetes,Maintain
+Arham,69,Male,168,66,Active,Diabetes,Maintain
+Rehan,48,Female,167,64,Moderate,Diabetes,Weight Gain
+Rizwan,69,Male,169,92,Active,Allergy: Seafood,Weight Loss
+Hoorain,24,Male,158,80,Sedentary,Diabetes,Weight Loss
+Zara,55,Female,167,67,Active,None,Weight Loss
+Bilal,27,Female,160,52,Moderate,Diabetes,Maintain
+Mariam,32,Male,169,61,Sedentary,Hypertension,Maintain
+Muhammad,60,Female,161,47,Active,Allergy: Mushroom,Weight Loss
+Fatima,72,Male,167,76,Active,Hypertension,Weight Loss
+Zara,62,Male,171,55,Light,Diabetes,Maintain
+Hafsa,75,Female,147,65,Sedentary,None,Maintain
+Ayesha,73,Male,185,84,Light,Allergy: Wheat,Weight Loss
+Zara,33,Female,158,51,Active,Diabetes,Weight Loss
+Ibrahim,72,Female,167,54,Moderate,Allergy: Wheat,Weight Loss
+Hassan,22,Female,166,64,Active,Allergy: Egg,Weight Loss
+Zara,72,Male,164,70,Active,Diabetes,Weight Loss
+Laiba,65,Male,184,80,Light,Allergy: Seafood,Weight Loss
+Hoorain,43,Male,165,88,Light,Allergy: Seafood,Maintain
+Huzaifa,73,Male,166,70,Active,Allergy: Egg,Maintain
+Maryam,23,Female,145,44,Sedentary,Diabetes,Maintain
+Kamran,69,Female,160,56,Sedentary,Diabetes,Weight Loss
+Danish,67,Male,181,85,Sedentary,Hypertension,Weight Gain
+Naveed,67,Male,169,92,Active,Diabetes,Maintain
+Omar,30,Female,147,42,Moderate,Allergy: Wheat,Maintain
+Rehan,27,Male,169,56,Moderate,Hypertension,Weight Loss
+Saad,22,Male,173,70,Moderate,Allergy: Mushroom,Weight Loss
+Aleena,55,Female,171,85,Light,Allergy: Seafood,Weight Loss
+Adnan,57,Female,155,57,Light,Allergy: Wheat,Weight Gain
+Ammar,73,Male,170,62,Moderate,Allergy: Egg,Weight Loss
+Azlan,57,Male,180,66,Active,Diabetes,Maintain
+Aiman,21,Female,148,61,Active,Diabetes,Weight Loss
+Shahid,37,Male,154,73,Light,Hypertension,Weight Loss
+Usama,73,Female,154,65,Active,Allergy: Seafood,Weight Loss
+Omar,56,Male,176,71,Active,Diabetes,Maintain
+Ahmed,68,Female,171,88,Light,Diabetes,Maintain
+Hoorain,43,Female,157,51,Active,Diabetes,Weight Loss
+Zainab,64,Male,182,72,Active,Diabetes,Weight Loss
+Aiman,75,Female,163,57,Sedentary,Allergy: Nuts,Weight Gain
+Rayyan,55,Female,155,58,Sedentary,Allergy: Nuts,Weight Loss
+Talha,51,Male,177,64,Light,Allergy: Wheat,Maintain
+Yusra,70,Female,157,79,Moderate,Allergy: Seafood,Weight Loss
+Iqra,73,Female,157,70,Light,Allergy: Egg,Weight Loss
+Bilal,54,Female,165,77,Light,Hypertension,Weight Loss
+Iqra,54,Male,179,98,Active,Hypertension,Weight Loss
+Zayan,60,Female,170,74,Sedentary,Allergy: Wheat,Weight Gain
+Dua,75,Male,169,92,Light,Allergy: Nuts,Weight Loss
+Shahmeer,68,Male,171,63,Sedentary,Allergy: Seafood,Weight Loss
+Asma,69,Male,172,55,Moderate,Hypertension,Maintain
+Sana,43,Male,171,73,Active,Allergy: Seafood,Weight Loss
+Saad,44,Male,162,48,Active,Hypertension,Maintain
+Hamza,52,Female,159,55,Active,Diabetes,Weight Loss
+Hafsa,51,Male,181,61,Light,Hypertension,Maintain
+Huzaifa,45,Female,153,61,Moderate,Diabetes,Weight Loss
+Hira,41,Male,178,61,Active,Allergy: Seafood,Weight Loss
+Adnan,45,Male,177,60,Light,Diabetes,Weight Loss
+Kamran,31,Female,156,55,Active,Hypertension,Weight Loss
+Talha,25,Male,171,55,Moderate,Allergy: Wheat,Weight Loss
+Sumaira,72,Female,170,57,Moderate,Hypertension,Weight Loss
+Muhammad,37,Male,170,66,Light,Allergy: Egg,Maintain
+Sumaira,75,Female,162,61,Moderate,Allergy: Egg,Maintain
+Komal,70,Male,175,96,Active,Allergy: Mushroom,Weight Loss
+Fizan,42,Male,179,102,Moderate,Allergy: Nuts,Weight Gain
+Fahad,71,Male,173,70,Light,Hypertension,Maintain
+Usman,41,Male,164,83,Active,Allergy: Nuts,Maintain
+Abdullah,40,Male,156,58,Active,Allergy: Wheat,Maintain
+Adnan,53,Female,164,49,Active,Allergy: Seafood,Weight Loss
+Nida,66,Male,167,84,Moderate,Allergy: Wheat,Maintain
+Khadija,58,Female,162,54,Light,Hypertension,Weight Loss
+Talha,20,Male,170,53,Light,Diabetes,Weight Loss
+Huda,69,Female,153,72,Moderate,Allergy: Seafood,Weight Loss
+Arham,61,Male,171,69,Sedentary,Allergy: Egg,Weight Gain
+Anaya,48,Female,172,97,Active,Diabetes,Weight Loss
+Anaya,43,Female,166,64,Light,Allergy: Wheat,Maintain
+Rayyan,56,Female,159,81,Light,Diabetes,Weight Loss
+Dua,72,Female,145,38,Moderate,Allergy: Seafood,Maintain
+Yusuf,68,Female,165,61,Active,Diabetes,Weight Gain
+Ibrahim,65,Female,156,46,Active,Hypertension,Weight Gain
+Sarmad,66,Female,151,51,Light,Allergy: Nuts,Weight Loss
+Maryam,58,Male,183,87,Light,Hypertension,Weight Loss
+Ibrahim,19,Male,159,71,Moderate,Allergy: Wheat,Weight Loss
+Zainab,47,Female,166,85,Moderate,None,Weight Loss
+Sumaira,58,Male,173,70,Light,Allergy: Nuts,Weight Gain
+Noor,18,Male,178,86,Moderate,Diabetes,Maintain
+Anas,32,Female,166,72,Light,Allergy: Nuts,Maintain
+Danish,41,Male,174,68,Light,Allergy: Seafood,Weight Loss
+Taha,65,Female,163,83,Light,Allergy: Mushroom,Maintain
+Rizwan,55,Male,166,68,Active,Diabetes,Maintain
+Fatima,36,Male,168,64,Light,Allergy: Wheat,Weight Loss
+Mahnoor,27,Male,176,65,Moderate,Allergy: Wheat,Weight Loss
+Haris,30,Male,181,95,Active,Diabetes,Weight Loss
+Areeba,28,Female,159,68,Active,Diabetes,Maintain
+Maryam,51,Female,153,69,Moderate,None,Maintain
+Zara,57,Female,162,76,Light,Diabetes,Maintain
+Fatima,67,Female,162,81,Moderate,Allergy: Wheat,Weight Loss
+Fizan,73,Male,173,96,Light,Allergy: Mushroom,Weight Loss
+Sumaira,50,Female,159,70,Active,Allergy: Nuts,Weight Loss
+Noman,33,Female,163,71,Active,Allergy: Mushroom,Weight Gain
+Yusra,42,Male,160,51,Moderate,Allergy: Egg,Weight Loss
+Yusra,53,Female,162,83,Light,Diabetes,Weight Loss
+Zayan,38,Female,149,53,Light,Hypertension,Weight Loss
+Mariam,48,Female,153,71,Light,Allergy: Wheat,Weight Loss
+Aleena,43,Male,171,80,Moderate,Diabetes,Weight Loss
+Rehan,51,Female,161,52,Light,Diabetes,Weight Loss
+Bilal,71,Female,158,78,Sedentary,Allergy: Wheat,Maintain
+Yusuf,24,Male,188,69,Active,Allergy: Mushroom,Weight Loss
+Zayan,29,Female,173,66,Active,None,Weight Loss
+Hafsa,27,Male,173,80,Moderate,Allergy: Mushroom,Weight Loss
+Zara,68,Male,171,88,Moderate,Hypertension,Weight Loss
+Naveed,63,Male,174,59,Moderate,None,Weight Gain
+Maryam,33,Female,158,77,Active,None,Maintain
+Ammar,58,Female,159,70,Light,Diabetes,Weight Loss
+Ibrahim,68,Female,158,68,Active,Hypertension,Weight Loss
+Adnan,55,Female,159,54,Light,Diabetes,Weight Loss
+Saif,23,Male,161,62,Active,Diabetes,Weight Gain
+Naveed,63,Male,173,71,Light,Hypertension,Weight Loss
+Ayaan,34,Male,175,98,Moderate,Diabetes,Weight Loss
+Kashif,35,Male,161,68,Light,None,Maintain
+Rehan,48,Male,176,87,Active,Allergy: Wheat,Weight Loss
+Usama,62,Female,157,62,Moderate,Allergy: Mushroom,Maintain
+Arham,18,Male,163,63,Light,Diabetes,Weight Gain
+Sameer,42,Male,169,52,Light,None,Weight Loss
+Imran,48,Female,163,86,Active,Hypertension,Maintain
+Aleena,31,Female,149,47,Active,Diabetes,Maintain
+Aleena,46,Female,153,45,Light,Hypertension,Maintain
+Hassan,47,Female,159,66,Active,Allergy: Seafood,Weight Loss
+Azlan,63,Male,173,64,Active,Allergy: Egg,Maintain
+Hafsa,54,Female,171,64,Moderate,Allergy: Wheat,Weight Loss
+Eesa,32,Male,163,83,Moderate,Allergy: Mushroom,Weight Loss
+Hassan,33,Male,174,96,Moderate,Allergy: Egg,Weight Loss
+Hira,39,Female,157,77,Sedentary,Hypertension,Weight Loss
+Usman,74,Male,168,73,Light,Allergy: Seafood,Weight Loss
+Sameer,39,Male,173,77,Sedentary,Allergy: Wheat,Weight Loss
+Hoorain,30,Female,162,60,Active,Allergy: Seafood,Weight Loss
+Sana,41,Female,165,59,Light,Allergy: Nuts,Maintain
+Imran,50,Female,158,60,Sedentary,Diabetes,Maintain
+Yusuf,44,Male,157,60,Active,Allergy: Mushroom,Weight Loss
+Fahad,53,Male,170,53,Sedentary,Allergy: Egg,Weight Gain
+Rayyan,32,Male,183,74,Light,Allergy: Egg,Maintain
+Areeba,40,Female,156,58,Moderate,Allergy: Wheat,Weight Loss
+Shariq,22,Male,161,80,Sedentary,Allergy: Egg,Weight Loss
+Hassan,38,Male,165,61,Light,Allergy: Mushroom,Maintain
+Hamza,35,Male,169,90,Sedentary,Diabetes,Weight Loss
+Noor,27,Female,156,57,Active,Allergy: Wheat,Maintain
+Kamran,66,Female,159,48,Sedentary,Diabetes,Maintain
+Huda,61,Male,176,69,Moderate,Allergy: Seafood,Weight Loss
+Ahmed,23,Male,165,63,Sedentary,Diabetes,Weight Loss
+Areeba,59,Female,159,55,Light,None,Weight Gain
+Hafsa,23,Female,156,47,Active,Hypertension,Weight Loss
+Yusuf,46,Male,162,67,Active,Allergy: Wheat,Weight Loss
+Usaib,61,Male,160,51,Moderate,Allergy: Wheat,Weight Loss
+Bilal,27,Female,163,76,Moderate,Allergy: Egg,Weight Gain
+Junaid,24,Male,175,69,Light,Allergy: Egg,Weight Loss
+Nabiha,38,Male,181,71,Active,Diabetes,Weight Gain
+Shahmeer,35,Female,164,83,Moderate,Allergy: Nuts,Maintain
+Hamza,36,Female,160,50,Active,None,Weight Loss
+Eman,45,Male,176,100,Active,Hypertension,Maintain
+Aiman,46,Male,174,99,Light,None,Weight Loss
+Fatima,20,Female,155,78,Active,Hypertension,Maintain
+Dua,41,Male,164,72,Light,Diabetes,Maintain
+Fizan,30,Female,164,67,Light,Allergy: Mushroom,Weight Loss
+Asma,19,Male,182,68,Active,Allergy: Seafood,Weight Gain
+Maryam,22,Female,156,53,Moderate,None,Weight Gain
+Noor,24,Male,169,55,Moderate,Diabetes,Maintain
+Iqra,23,Female,153,75,Light,Allergy: Nuts,Weight Loss
+Shahzaib,51,Female,151,75,Active,Hypertension,Maintain
+Sumaira,50,Male,172,93,Light,Allergy: Nuts,Maintain
+Fizan,51,Male,170,94,Sedentary,Diabetes,Weight Gain
+Sana,62,Male,174,60,Sedentary,Allergy: Wheat,Weight Loss
+Ayesha,31,Male,182,60,Moderate,Allergy: Mushroom,Maintain
+Ali,52,Male,176,88,Sedentary,Allergy: Mushroom,Weight Loss
+Maryam,71,Male,178,96,Moderate,Hypertension,Weight Loss
+Rehan,38,Male,174,55,Light,Hypertension,Maintain
+Kamran,54,Female,155,54,Active,Allergy: Nuts,Weight Gain
+Junaid,39,Male,157,55,Moderate,Allergy: Seafood,Weight Loss
+Kashif,53,Female,159,71,Sedentary,Allergy: Seafood,Weight Loss
+Eesa,49,Male,171,71,Active,Allergy: Wheat,Weight Gain
+Yusuf,55,Female,170,79,Sedentary,Allergy: Seafood,Weight Loss
+Adnan,54,Female,162,56,Active,Diabetes,Weight Loss
+Sumaira,61,Female,162,60,Sedentary,Allergy: Wheat,Maintain
+Rayyan,67,Male,163,79,Light,Hypertension,Maintain
+Adnan,74,Female,157,51,Active,Hypertension,Weight Loss
+Ammar,19,Female,154,48,Light,Allergy: Wheat,Weight Loss
+Hafsa,24,Male,169,88,Active,Diabetes,Maintain
+Huzaifa,44,Male,171,78,Sedentary,Hypertension,Weight Gain
+Zara,44,Male,171,64,Light,Hypertension,Weight Loss
+Rabia,40,Male,170,69,Active,Allergy: Wheat,Weight Loss
+Huzaifa,49,Female,168,55,Light,Allergy: Mushroom,Maintain
+Muhammad,65,Male,175,99,Moderate,Hypertension,Weight Gain
+Hamza,57,Female,155,44,Active,None,Weight Loss
+Sara,32,Male,167,60,Sedentary,Hypertension,Weight Loss
+Saif,34,Male,173,77,Moderate,None,Weight Loss
+Taha,27,Male,169,78,Active,None,Maintain
+Yusra,75,Female,163,76,Light,Diabetes,Weight Loss
+Ayaan,57,Male,174,75,Light,Allergy: Wheat,Weight Loss
+Sara,27,Female,171,62,Moderate,Allergy: Wheat,Maintain
+Talha,72,Female,163,62,Active,Allergy: Mushroom,Maintain
+Komal,59,Male,163,87,Moderate,Allergy: Egg,Weight Loss
+Aleena,45,Male,180,95,Active,Diabetes,Maintain
+Rayyan,22,Male,177,83,Light,Hypertension,Weight Loss
+Areeba,51,Female,147,71,Active,Diabetes,Weight Loss
+Hoorain,19,Male,166,60,Moderate,Hypertension,Weight Loss
+Saad,23,Female,172,56,Sedentary,Allergy: Egg,Maintain
+Shahzaib,31,Female,168,69,Active,Allergy: Wheat,Maintain
+Azlan,50,Female,162,55,Light,Allergy: Seafood,Maintain
+Yusuf,22,Female,167,55,Sedentary,Allergy: Egg,Maintain
+Danish,66,Female,154,58,Active,Hypertension,Maintain
+Shayan,56,Female,167,88,Active,Allergy: Egg,Weight Loss
+Rabia,27,Female,154,59,Moderate,Allergy: Egg,Weight Loss
+Fahad,41,Male,180,106,Sedentary,Allergy: Wheat,Weight Gain
+Sumaira,58,Male,175,94,Moderate,Allergy: Seafood,Weight Loss
+Mariam,30,Female,157,67,Active,Allergy: Mushroom,Maintain
+Hafsa,55,Male,177,89,Light,Diabetes,Weight Loss
+Saad,26,Female,165,61,Sedentary,Diabetes,Maintain
+Shahid,33,Female,165,58,Active,Allergy: Wheat,Weight Loss
+Azlan,41,Female,174,67,Light,Allergy: Nuts,Maintain
+Maryam,37,Female,168,52,Active,Allergy: Wheat,Maintain
+Hoorain,20,Male,179,84,Moderate,Diabetes,Weight Loss
+Zainab,57,Female,165,89,Active,Allergy: Egg,Maintain
+Ayesha,68,Male,171,53,Active,Allergy: Seafood,Weight Gain
+Sara,23,Male,177,81,Light,Allergy: Wheat,Weight Loss
+Zeeshan,71,Male,162,51,Moderate,Diabetes,Weight Loss
+Talha,37,Female,155,60,Active,Diabetes,Weight Loss
+Eman,25,Female,145,41,Sedentary,Allergy: Wheat,Weight Loss
+Shahid,19,Female,171,54,Moderate,None,Maintain
+Maryam,56,Male,173,59,Active,Allergy: Seafood,Weight Loss
+Aleena,69,Female,164,70,Active,Diabetes,Weight Gain
+Hamza,63,Male,176,70,Light,Allergy: Wheat,Weight Loss
+Anas,59,Male,167,52,Light,Diabetes,Weight Loss
+Fahad,73,Female,168,86,Light,Diabetes,Weight Gain
+Talha,74,Male,183,80,Active,Diabetes,Weight Gain
+Salman,40,Female,166,58,Sedentary,Diabetes,Weight Loss
+Hina,33,Male,158,82,Light,Allergy: Wheat,Weight Loss
+Hassan,37,Female,149,54,Active,Allergy: Nuts,Weight Loss
+Fahad,49,Male,177,69,Active,Allergy: Wheat,Weight Loss
+Nida,25,Male,173,91,Sedentary,Diabetes,Maintain
+Ammar,59,Male,163,48,Sedentary,Allergy: Wheat,Weight Loss
+Aleena,35,Male,169,79,Moderate,None,Weight Loss
+Danish,28,Female,163,81,Active,Allergy: Seafood,Maintain
+Khadija,59,Female,153,53,Light,Diabetes,Weight Gain
+Anas,27,Female,159,66,Light,Hypertension,Maintain
+Saif,34,Male,173,60,Moderate,Allergy: Wheat,Weight Loss
+Ayaan,24,Female,152,70,Light,Allergy: Wheat,Maintain
+Zainab,74,Female,162,62,Active,Allergy: Mushroom,Weight Loss
+Bilal,39,Female,166,50,Sedentary,Allergy: Egg,Weight Loss
+Danish,47,Male,182,60,Active,Diabetes,Weight Loss
+Rabia,30,Male,173,93,Sedentary,Allergy: Seafood,Weight Loss
+Naveed,60,Male,175,66,Moderate,Allergy: Seafood,Weight Loss
+Talha,29,Male,168,75,Moderate,Allergy: Wheat,Weight Loss
+Zayan,75,Male,168,60,Active,Diabetes,Weight Loss
+Hina,58,Male,178,83,Active,Diabetes,Weight Loss
+Khadija,52,Male,179,98,Sedentary,Allergy: Seafood,Weight Loss
+Aleena,23,Female,158,57,Light,Diabetes,Maintain
+Saad,44,Female,159,77,Moderate,None,Weight Loss
+Bilal,34,Male,180,60,Sedentary,Diabetes,Weight Loss
+Khadija,75,Female,162,79,Moderate,Allergy: Mushroom,Weight Loss
+Hina,40,Female,168,69,Active,Diabetes,Weight Loss
+Maryam,43,Male,176,89,Moderate,Allergy: Wheat,Maintain
+Danish,31,Male,162,50,Active,Allergy: Wheat,Maintain
+Adnan,30,Female,146,40,Light,Allergy: Wheat,Weight Loss
+Zeeshan,62,Male,173,85,Active,Allergy: Wheat,Weight Loss
+Jawwad,67,Female,145,55,Light,Allergy: Nuts,Weight Loss
+Shahmeer,59,Male,180,104,Light,Allergy: Mushroom,Weight Loss
+Sana,23,Female,167,64,Moderate,Diabetes,Weight Loss
+Zayan,47,Male,174,95,Active,Hypertension,Maintain
+Taha,47,Female,166,74,Moderate,Allergy: Nuts,Weight Loss
+Muhammad,72,Female,159,67,Active,Allergy: Seafood,Weight Loss
+Dua,75,Female,162,57,Moderate,Diabetes,Weight Loss
+Zubair,46,Female,155,72,Active,Hypertension,Weight Gain
+Eman,51,Female,148,57,Moderate,Diabetes,Maintain
+Sumaira,42,Female,166,74,Sedentary,Allergy: Wheat,Maintain
+Taha,39,Male,174,85,Active,Allergy: Seafood,Weight Gain
+Fahad,42,Male,159,47,Active,Allergy: Nuts,Weight Loss
+Laiba,31,Male,179,76,Moderate,Diabetes,Maintain
+Ayaan,46,Male,176,85,Sedentary,Diabetes,Maintain
+Shahmeer,54,Female,162,66,Moderate,Diabetes,Weight Loss
+Shahzaib,32,Male,155,73,Light,Allergy: Seafood,Weight Loss
+Saif,60,Female,155,49,Light,Allergy: Nuts,Maintain
+Hafsa,37,Female,155,48,Active,Allergy: Egg,Maintain
+Huda,58,Female,161,75,Light,Allergy: Egg,Maintain
+Ayesha,23,Female,171,74,Active,Diabetes,Weight Loss
+Rabia,27,Female,163,55,Active,Hypertension,Maintain
+Hamza,69,Male,179,105,Active,Allergy: Egg,Weight Loss
+Fatima,68,Female,165,73,Moderate,Diabetes,Weight Loss
+Shayan,40,Female,165,49,Active,Diabetes,Weight Gain
+Fatima,69,Male,165,67,Light,Diabetes,Maintain
+Zainab,70,Male,167,53,Sedentary,Diabetes,Maintain
+Iqra,42,Female,157,71,Light,Diabetes,Weight Loss
+Anas,26,Female,155,51,Sedentary,Diabetes,Weight Loss
+Danish,30,Male,182,70,Sedentary,Allergy: Seafood,Weight Loss
+Zeeshan,58,Male,177,63,Active,None,Weight Loss
+Danish,40,Male,182,97,Sedentary,Diabetes,Weight Loss
+Khadija,25,Female,158,57,Active,Allergy: Mushroom,Maintain
+Huzaifa,67,Female,169,91,Active,Allergy: Seafood,Weight Loss
+Ayesha,51,Male,166,87,Active,Hypertension,Weight Loss
+Aleena,26,Male,172,63,Light,None,Maintain
+Imran,46,Female,156,61,Active,Allergy: Wheat,Weight Loss
+Hafsa,31,Female,154,44,Light,None,Maintain
+Sameer,34,Male,173,62,Light,Allergy: Wheat,Weight Loss
+Asma,31,Female,157,69,Active,Diabetes,Weight Loss
+Mariam,23,Male,181,74,Moderate,Allergy: Nuts,Weight Loss
+Junaid,64,Male,166,88,Moderate,Allergy: Wheat,Weight Gain
+Farhan,30,Female,156,51,Moderate,Allergy: Egg,Maintain
+Yusra,42,Female,167,55,Light,Allergy: Seafood,Weight Loss
+Noman,31,Male,157,55,Active,Diabetes,Weight Loss
+Zubair,26,Female,155,70,Light,None,Weight Loss
+Bilal,39,Female,161,49,Moderate,Allergy: Wheat,Weight Loss
+Iqra,55,Male,169,77,Light,Diabetes,Weight Loss
+Arham,33,Female,159,53,Light,Allergy: Wheat,Weight Loss
+Talha,31,Female,160,82,Light,Diabetes,Weight Loss
+Ibrahim,43,Female,151,60,Light,Diabetes,Weight Loss
+Ayesha,43,Female,173,65,Light,None,Weight Loss
+Rabia,38,Male,172,63,Sedentary,Allergy: Mushroom,Weight Loss
+Ali,33,Female,154,63,Sedentary,Hypertension,Weight Loss
+Taha,36,Female,156,75,Active,Allergy: Seafood,Maintain
+Anaya,27,Female,162,75,Light,Hypertension,Maintain
+Dua,65,Male,178,87,Moderate,Diabetes,Weight Gain
+Ayesha,59,Female,160,65,Active,Hypertension,Maintain
+Ayesha,35,Female,145,60,Active,Allergy: Wheat,Weight Loss
+Zainab,29,Female,169,89,Moderate,Hypertension,Maintain
+Arham,29,Female,161,69,Sedentary,Allergy: Wheat,Weight Loss
+Mariam,39,Male,179,72,Light,Allergy: Nuts,Weight Loss
+Sara,62,Female,155,61,Light,Diabetes,Maintain
+Azlan,54,Male,173,81,Active,Hypertension,Weight Gain
+Sara,51,Female,169,74,Active,Diabetes,Weight Loss
+Muhammad,41,Female,158,51,Light,Allergy: Egg,Weight Loss
+Huda,31,Female,158,76,Active,Allergy: Seafood,Weight Loss
+Aleena,49,Male,170,89,Moderate,Diabetes,Maintain
+Yusra,51,Male,169,94,Active,Allergy: Wheat,Maintain
+Areeba,32,Female,165,55,Active,Allergy: Mushroom,Weight Loss
+Maryam,40,Male,177,95,Moderate,None,Maintain
+Hassan,54,Female,160,53,Sedentary,Allergy: Egg,Weight Loss
+Haris,50,Male,177,62,Active,Hypertension,Weight Loss
+Aleena,31,Female,158,49,Light,Hypertension,Maintain
+Rabia,49,Female,178,86,Sedentary,Allergy: Egg,Maintain
+Ayesha,50,Male,167,91,Light,Diabetes,Weight Loss
+Taha,48,Male,170,54,Active,Diabetes,Weight Loss
+Yusra,27,Female,167,91,Light,None,Weight Loss
+Dua,50,Male,169,62,Sedentary,None,Maintain
+Saif,72,Male,161,58,Active,Allergy: Seafood,Weight Loss
+Ayesha,49,Female,167,68,Active,Allergy: Egg,Weight Loss
+Rizwan,25,Male,175,63,Sedentary,Allergy: Mushroom,Weight Loss
+Taha,44,Male,172,65,Sedentary,Hypertension,Weight Gain
+Sana,43,Female,156,51,Light,Allergy: Wheat,Maintain
+Komal,67,Male,172,65,Moderate,Allergy: Seafood,Maintain
+Ayesha,68,Male,155,79,Sedentary,None,Weight Loss
+Omar,75,Female,166,64,Light,Diabetes,Weight Loss
+Sana,62,Female,156,57,Light,Allergy: Seafood,Weight Loss
+Usama,53,Female,158,61,Active,Allergy: Nuts,Weight Gain
+Dua,23,Male,168,67,Light,Allergy: Wheat,Weight Loss
+Ibrahim,67,Male,167,70,Sedentary,Diabetes,Weight Loss
+Fizan,32,Male,170,61,Moderate,Diabetes,Maintain
+Huda,20,Male,164,83,Active,Diabetes,Weight Loss
+Anas,45,Female,156,66,Sedentary,Allergy: Nuts,Weight Loss
+Mariam,59,Female,155,60,Light,None,Weight Gain
+Sana,54,Female,164,78,Moderate,None,Maintain
+Bilal,20,Male,167,68,Light,Allergy: Egg,Maintain
+Huzaifa,66,Female,166,87,Active,Hypertension,Weight Loss
+Hira,60,Female,157,59,Moderate,Allergy: Seafood,Weight Loss
+Adnan,65,Female,159,77,Moderate,Allergy: Egg,Weight Loss
+Hussain,35,Male,160,64,Light,Allergy: Wheat,Weight Loss
+Ayesha,62,Female,155,74,Active,Diabetes,Weight Loss
+Omar,72,Female,153,56,Sedentary,None,Weight Gain
+Mariam,32,Male,162,61,Active,Allergy: Wheat,Weight Gain
+Hussain,31,Female,148,57,Active,Hypertension,Weight Loss
+Areeba,19,Female,160,53,Light,Allergy: Nuts,Weight Loss
+Hamza,19,Female,165,59,Sedentary,Diabetes,Weight Loss
+Yusra,22,Female,167,67,Sedentary,Diabetes,Weight Loss
+Ammar,18,Male,175,65,Active,Allergy: Wheat,Weight Loss
+Arham,50,Female,155,78,Light,Allergy: Wheat,Weight Loss
+Fahad,19,Female,154,65,Active,Diabetes,Maintain
+Rabia,26,Female,146,49,Active,Hypertension,Weight Loss
+Aiman,23,Female,159,53,Active,Diabetes,Weight Loss
+Azlan,57,Female,156,71,Active,Diabetes,Maintain
+Bilal,27,Male,170,89,Sedentary,Diabetes,Weight Loss
+Usama,44,Male,164,80,Light,Diabetes,Weight Gain
+Haris,18,Female,171,72,Light,Diabetes,Weight Loss
+Saif,64,Male,174,64,Light,Allergy: Seafood,Weight Loss
+Fizan,38,Male,173,91,Light,Allergy: Wheat,Weight Loss
+Hoorain,40,Male,161,47,Light,Hypertension,Weight Gain
+Sarmad,45,Female,153,49,Light,Allergy: Egg,Weight Loss
+Anaya,21,Female,160,72,Sedentary,Hypertension,Maintain
+Sumaira,50,Male,179,80,Moderate,Allergy: Wheat,Weight Loss
+Hamza,65,Male,175,89,Light,Diabetes,Weight Loss
+Fatima,45,Male,168,85,Moderate,Allergy: Wheat,Weight Loss
+Saif,28,Male,170,71,Light,Hypertension,Weight Loss
+Anas,22,Male,164,80,Sedentary,Diabetes,Maintain
+Hira,38,Male,177,74,Active,Hypertension,Weight Loss
+Eesa,59,Female,168,74,Light,Diabetes,Maintain
+Ali,40,Male,184,107,Moderate,Allergy: Nuts,Weight Loss
+Hafsa,59,Male,167,71,Light,Allergy: Egg,Weight Loss
+Farhan,58,Female,161,75,Sedentary,Allergy: Nuts,Maintain
+Muhammad,49,Female,161,65,Moderate,Hypertension,Weight Gain
+Usama,30,Female,150,64,Active,None,Maintain
+Rabia,38,Female,162,52,Moderate,Allergy: Egg,Maintain
+Rayyan,61,Female,157,71,Active,Diabetes,Weight Gain
+Usman,44,Male,175,87,Light,Hypertension,Weight Loss
+Zainab,45,Male,168,80,Light,Allergy: Wheat,Maintain
+Zeeshan,52,Male,175,71,Active,Allergy: Nuts,Weight Loss
+Fizan,33,Male,171,62,Sedentary,Hypertension,Weight Loss
+Nida,23,Female,168,59,Active,Allergy: Egg,Maintain
+Iqra,67,Male,173,57,Light,Allergy: Nuts,Weight Loss
+Hassan,24,Male,181,91,Moderate,Hypertension,Weight Loss
+Sarmad,36,Male,167,72,Moderate,Allergy: Mushroom,Weight Loss
+Adnan,56,Female,155,74,Sedentary,Allergy: Wheat,Weight Loss
+Hoorain,71,Male,184,67,Active,Allergy: Seafood,Weight Loss
+Saad,67,Female,158,55,Active,Diabetes,Weight Loss
+Anaya,44,Female,161,78,Light,Allergy: Wheat,Weight Gain
+Junaid,32,Male,177,88,Light,Diabetes,Weight Loss
+Anas,44,Male,186,111,Light,Allergy: Wheat,Weight Loss
+Maryam,24,Male,173,85,Light,Diabetes,Weight Loss
+Khadija,29,Female,162,64,Sedentary,Diabetes,Weight Loss
+Sumaira,33,Female,168,86,Sedentary,None,Weight Loss
+Aiman,49,Female,156,68,Moderate,Allergy: Nuts,Weight Loss
+Maryam,68,Male,170,75,Light,Diabetes,Weight Gain
+Ayaan,62,Male,166,74,Active,Allergy: Mushroom,Weight Loss
+Omar,58,Male,180,78,Active,Allergy: Wheat,Maintain
+Hina,51,Female,174,72,Active,Hypertension,Weight Gain
+Imran,18,Male,170,94,Light,Allergy: Wheat,Maintain
+Fahad,73,Male,158,81,Active,Diabetes,Weight Loss
+Naveed,37,Female,154,58,Moderate,Allergy: Nuts,Weight Loss
+Usama,22,Male,166,75,Sedentary,Hypertension,Weight Loss
+Hussain,56,Female,153,43,Active,Allergy: Seafood,Weight Loss
+Saif,71,Female,145,66,Moderate,Allergy: Seafood,Weight Loss
+Mariam,56,Female,150,44,Light,None,Weight Gain
+Hoorain,52,Female,155,58,Sedentary,Allergy: Seafood,Maintain
+Fahad,71,Female,168,87,Active,Allergy: Nuts,Weight Gain
+Danish,33,Male,180,63,Moderate,Allergy: Seafood,Maintain
+Hira,58,Female,159,71,Moderate,Allergy: Wheat,Weight Loss
+Huda,40,Male,157,66,Active,Allergy: Nuts,Weight Loss
+Kamran,73,Male,169,59,Moderate,Allergy: Wheat,Weight Loss
+Noor,24,Female,163,59,Active,Hypertension,Weight Loss
+Ibrahim,63,Male,165,74,Sedentary,Diabetes,Weight Loss
+Shahmeer,29,Female,162,80,Sedentary,Hypertension,Maintain
+Usama,64,Male,163,82,Light,Diabetes,Weight Loss
+Zayan,51,Female,145,41,Moderate,None,Weight Loss
+Ayesha,42,Male,185,100,Active,Diabetes,Weight Loss
+Anaya,41,Female,148,53,Sedentary,None,Weight Loss
+Hoorain,42,Female,152,73,Light,Diabetes,Weight Loss
+Bilal,33,Male,167,59,Active,Diabetes,Maintain
+Shayan,69,Male,167,64,Sedentary,None,Maintain
+Arham,71,Male,164,54,Light,Allergy: Egg,Weight Loss
+Zainab,66,Female,168,55,Active,Allergy: Seafood,Maintain
+Aiman,22,Female,169,65,Sedentary,Allergy: Seafood,Maintain
+Junaid,46,Male,159,77,Light,Allergy: Egg,Weight Loss
+Asma,31,Female,165,55,Moderate,Diabetes,Weight Loss
+Hafsa,61,Female,155,64,Active,Allergy: Nuts,Weight Loss
+Saad,35,Male,176,71,Light,Allergy: Mushroom,Maintain
+Maryam,19,Female,153,50,Light,Diabetes,Weight Gain
+Asma,18,Male,165,83,Active,Allergy: Egg,Maintain
+Eman,27,Male,172,94,Sedentary,Diabetes,Maintain
+Anaya,32,Male,175,83,Sedentary,Diabetes,Weight Gain
+Ahmed,66,Female,161,47,Sedentary,Allergy: Wheat,Weight Loss
+Aiman,57,Female,158,50,Active,Allergy: Seafood,Weight Loss
+Fahad,18,Female,159,68,Sedentary,Allergy: Mushroom,Weight Loss
+Kashif,60,Female,162,63,Moderate,Diabetes,Weight Loss
+Yusuf,59,Female,154,44,Light,None,Weight Loss
+Rayyan,67,Male,177,63,Sedentary,Allergy: Wheat,Weight Loss
+Kashif,24,Male,167,67,Moderate,Hypertension,Weight Loss
+Zainab,62,Male,176,80,Active,Diabetes,Weight Loss
+Hira,34,Female,167,61,Moderate,Allergy: Wheat,Weight Loss
+Hassan,61,Male,176,86,Moderate,Allergy: Mushroom,Weight Loss
+Omar,55,Male,174,77,Active,Diabetes,Weight Gain
+Eesa,41,Female,160,72,Light,Diabetes,Weight Loss
+Saad,54,Female,168,89,Active,Allergy: Seafood,Maintain
+Hoorain,48,Male,178,63,Active,Allergy: Wheat,Weight Loss
+Rabia,43,Female,164,50,Light,Allergy: Seafood,Maintain
+Hafsa,41,Male,170,57,Active,Allergy: Nuts,Weight Loss
+Arham,55,Male,163,50,Light,Allergy: Wheat,Weight Loss
+Nida,37,Female,158,72,Active,Hypertension,Weight Loss
+Adnan,49,Female,151,64,Light,Diabetes,Maintain
+Danish,57,Male,175,99,Moderate,Allergy: Nuts,Weight Loss
+Sameer,45,Female,167,88,Light,Allergy: Egg,Weight Loss
+Haris,62,Male,154,45,Light,None,Maintain
+Eman,21,Male,180,106,Light,Allergy: Wheat,Weight Loss
+Kamran,27,Male,167,82,Moderate,Diabetes,Maintain
+Nida,73,Male,177,75,Active,Hypertension,Maintain
+Anaya,22,Male,180,99,Active,Allergy: Egg,Weight Loss
+Sumaira,19,Female,166,51,Active,None,Weight Loss
+Aiman,43,Female,172,94,Active,Diabetes,Weight Loss
+Asma,66,Female,158,75,Moderate,Allergy: Egg,Weight Loss
+Ali,48,Male,187,114,Moderate,Allergy: Seafood,Weight Loss
+Hassan,71,Male,174,67,Light,Allergy: Egg,Weight Loss
+Aiman,57,Female,157,50,Active,Allergy: Seafood,Weight Loss
+Ahmed,70,Female,157,66,Light,Hypertension,Weight Loss
+Asma,34,Male,175,76,Active,Allergy: Wheat,Weight Loss
+Eman,20,Female,155,50,Moderate,Allergy: Mushroom,Maintain
+Ayesha,46,Male,170,76,Active,Allergy: Seafood,Weight Loss
+Yusuf,74,Female,161,77,Active,Hypertension,Weight Loss
+Danish,26,Male,171,95,Moderate,Hypertension,Maintain
+Rabia,70,Female,162,47,Light,Diabetes,Weight Loss
+Shahzain,52,Male,179,85,Moderate,Allergy: Wheat,Weight Loss
+Bilal,23,Female,165,72,Light,None,Weight Loss
+Sumaira,21,Female,153,57,Active,Diabetes,Maintain
+Saad,75,Male,176,88,Light,Allergy: Egg,Weight Loss
+Salman,34,Male,174,55,Active,Allergy: Wheat,Maintain
+Anas,37,Female,151,60,Light,Diabetes,Weight Loss
+Ammar,52,Female,162,48,Moderate,Allergy: Wheat,Weight Loss
+Yusra,65,Male,161,66,Moderate,Allergy: Seafood,Weight Loss
+Ahmed,69,Male,170,83,Moderate,Allergy: Wheat,Weight Loss
+Yusuf,29,Female,162,69,Moderate,Diabetes,Maintain
+Sana,36,Female,163,59,Moderate,Hypertension,Maintain
+Shahmeer,55,Female,161,59,Active,Allergy: Seafood,Maintain
+Naveed,69,Male,169,56,Light,Allergy: Seafood,Maintain
+Saad,24,Female,153,47,Light,Diabetes,Weight Loss
+Adnan,47,Male,169,89,Sedentary,Allergy: Mushroom,Weight Gain
+Eman,69,Female,161,61,Light,Diabetes,Weight Loss
+Yusuf,63,Female,160,57,Light,Allergy: Mushroom,Weight Loss
+Hafsa,47,Male,168,78,Moderate,Diabetes,Weight Loss
+Azlan,59,Male,173,94,Active,Hypertension,Weight Loss
+Kashif,24,Male,167,80,Light,Allergy: Mushroom,Maintain
+Hafsa,74,Female,149,53,Sedentary,Diabetes,Maintain
+Shahzaib,56,Female,168,92,Active,Diabetes,Weight Loss
+Shahzaib,47,Male,169,51,Sedentary,Allergy: Seafood,Maintain
+Rayyan,72,Female,168,75,Active,Allergy: Egg,Weight Loss
+Khadija,58,Female,155,75,Light,Allergy: Nuts,Weight Loss
+Hira,23,Male,168,93,Moderate,Allergy: Egg,Weight Loss
+Saif,72,Female,170,65,Sedentary,Hypertension,Maintain
+Adnan,47,Female,168,71,Light,Allergy: Wheat,Maintain
+Sameer,72,Male,170,68,Light,Diabetes,Weight Gain
+Dua,34,Female,152,49,Active,Allergy: Wheat,Maintain
+Sara,64,Female,156,78,Moderate,Allergy: Mushroom,Weight Loss
+Ibrahim,62,Female,162,57,Active,Hypertension,Maintain
+Ammar,54,Male,175,58,Active,Diabetes,Weight Loss
+Hira,68,Female,162,51,Moderate,Allergy: Egg,Maintain
+Sarmad,22,Female,153,64,Moderate,Allergy: Seafood,Weight Loss
+Asma,69,Male,182,95,Light,Allergy: Mushroom,Weight Loss
+Rabia,34,Female,157,45,Active,Allergy: Nuts,Weight Loss
+Shahmeer,25,Male,168,76,Light,None,Weight Gain
+Huda,49,Male,178,72,Light,Allergy: Egg,Weight Loss
+Dua,27,Male,178,85,Light,None,Weight Loss
+Laiba,27,Male,180,81,Moderate,Allergy: Mushroom,Maintain
+Ahmed,25,Female,149,41,Moderate,Diabetes,Weight Loss
+Muhammad,42,Female,174,58,Light,Allergy: Seafood,Weight Loss
+Zayan,62,Female,162,77,Sedentary,Allergy: Mushroom,Weight Gain
+Shayan,62,Male,176,77,Sedentary,Allergy: Mushroom,Maintain
+Yusuf,66,Female,161,79,Active,Allergy: Seafood,Weight Loss
+Komal,26,Male,170,87,Light,Allergy: Wheat,Weight Loss
+Sumaira,45,Male,171,55,Active,Allergy: Egg,Weight Loss
+Zubair,52,Male,168,54,Moderate,Diabetes,Weight Loss
+Noor,26,Male,175,84,Moderate,Allergy: Egg,Weight Loss
+Kamran,19,Male,162,52,Light,None,Weight Loss
+Bilal,49,Female,153,77,Moderate,Allergy: Seafood,Weight Loss
+Yusuf,30,Male,172,61,Active,Allergy: Nuts,Weight Gain
+Shahmeer,68,Female,152,70,Moderate,Allergy: Wheat,Maintain
+Ibrahim,68,Female,158,51,Moderate,Allergy: Nuts,Weight Loss
+Hamza,66,Female,149,46,Moderate,Allergy: Seafood,Weight Loss
+Usama,37,Female,150,43,Light,Allergy: Mushroom,Weight Gain
+Yusra,45,Male,173,64,Sedentary,Allergy: Mushroom,Maintain
+Fizan,38,Male,177,81,Sedentary,Diabetes,Maintain
+Mahad,32,Male,170,70,Sedentary,Diabetes,Weight Loss
+Salman,60,Female,160,55,Moderate,Diabetes,Maintain
+Zara,42,Female,154,70,Moderate,Diabetes,Weight Loss
+Rabia,24,Female,170,54,Moderate,Hypertension,Maintain
+Yusuf,60,Male,178,66,Active,Hypertension,Weight Gain
+Noman,45,Female,156,61,Moderate,Allergy: Nuts,Weight Loss
+Rizwan,59,Male,168,69,Moderate,Allergy: Mushroom,Weight Gain
+Areeba,33,Male,156,63,Light,Hypertension,Maintain
+Sana,50,Male,162,73,Active,Hypertension,Maintain
+Sara,75,Female,163,82,Sedentary,Allergy: Seafood,Weight Loss
+Eesa,57,Female,150,45,Moderate,Allergy: Seafood,Maintain
+Saif,18,Male,179,63,Sedentary,Diabetes,Weight Loss
+Noor,38,Female,152,54,Moderate,Allergy: Nuts,Maintain
+Rayyan,18,Male,168,91,Active,Hypertension,Weight Loss
+Eman,44,Male,169,57,Sedentary,Allergy: Wheat,Weight Loss
+Naveed,36,Female,157,73,Active,Diabetes,Maintain
+Anaya,48,Female,162,84,Sedentary,Diabetes,Maintain
+Hassan,52,Male,179,78,Light,Allergy: Seafood,Weight Loss
+Saad,35,Female,166,85,Active,Allergy: Wheat,Maintain
+Ahmed,25,Male,166,50,Light,Hypertension,Maintain
+Noor,64,Female,155,71,Light,Diabetes,Weight Loss
+Zubair,23,Female,150,55,Sedentary,Allergy: Wheat,Weight Loss
+Aiman,65,Female,155,68,Active,Allergy: Mushroom,Weight Loss
+Adnan,63,Male,176,67,Active,Allergy: Wheat,Weight Loss
+Kashif,36,Male,167,87,Active,Diabetes,Weight Loss
+Zubair,43,Male,179,63,Light,Hypertension,Weight Loss
+Farhan,19,Female,152,76,Sedentary,Allergy: Egg,Weight Loss
+Hassan,56,Male,176,75,Light,Allergy: Wheat,Weight Loss
+Ahmed,59,Female,167,55,Active,Allergy: Nuts,Maintain
+Sana,27,Male,171,87,Active,Diabetes,Weight Loss
+Saad,47,Female,161,53,Moderate,Diabetes,Maintain
+Rabia,74,Female,158,51,Light,None,Weight Loss
+Zara,39,Female,157,52,Light,Allergy: Mushroom,Maintain
+Zainab,55,Male,165,63,Sedentary,Diabetes,Weight Loss
+Ahmed,65,Male,171,55,Moderate,Diabetes,Weight Loss
+Rehan,50,Male,167,53,Active,Hypertension,Weight Loss
+Zeeshan,28,Male,163,84,Light,Allergy: Wheat,Weight Gain
+Shahid,36,Male,166,73,Light,Hypertension,Weight Gain
+Hafsa,55,Female,165,73,Sedentary,Hypertension,Weight Loss
+Saif,28,Male,169,90,Moderate,Diabetes,Weight Loss
+Ali,71,Male,169,58,Light,Allergy: Seafood,Weight Loss
+Azlan,36,Female,165,72,Light,Allergy: Egg,Weight Loss
+Areeba,47,Male,192,106,Active,Allergy: Wheat,Weight Gain
+Sameer,40,Female,163,75,Active,Hypertension,Weight Gain
+Noman,46,Male,161,77,Light,Allergy: Seafood,Maintain
+Rabia,54,Male,186,81,Moderate,Diabetes,Weight Gain
+Fizan,29,Male,171,93,Light,Diabetes,Maintain
+Mariam,57,Female,162,50,Active,Allergy: Seafood,Maintain
+Adnan,30,Male,167,56,Active,Allergy: Mushroom,Maintain
+Huzaifa,50,Female,162,62,Sedentary,Allergy: Wheat,Weight Gain
+Abdullah,57,Female,163,56,Moderate,Allergy: Wheat,Weight Loss
+Saad,26,Female,163,66,Moderate,Allergy: Nuts,Weight Loss
+Eman,30,Male,177,91,Light,Hypertension,Maintain
+Noman,28,Male,172,79,Sedentary,Allergy: Seafood,Maintain
+Zainab,25,Male,173,85,Light,Allergy: Wheat,Weight Gain
+Bilal,33,Female,157,70,Sedentary,Hypertension,Maintain
+Aleena,26,Male,168,61,Light,Allergy: Wheat,Weight Loss
+Mariam,48,Male,166,58,Light,Allergy: Wheat,Maintain
+Sarmad,23,Female,157,45,Moderate,Allergy: Egg,Maintain
+Shahid,20,Male,180,81,Light,Allergy: Wheat,Weight Loss
+Ayesha,75,Female,155,64,Sedentary,Hypertension,Weight Loss
+Yusra,70,Female,153,61,Moderate,Allergy: Nuts,Weight Loss
+Hoorain,57,Female,152,64,Active,Hypertension,Weight Loss
+Ammar,36,Female,156,46,Active,Hypertension,Weight Loss
+Iqra,67,Female,155,67,Moderate,Allergy: Egg,Maintain
+Usman,67,Female,165,52,Moderate,Allergy: Seafood,Maintain
+Ammar,71,Female,158,50,Moderate,Diabetes,Weight Loss
+Hassan,54,Male,164,85,Moderate,Allergy: Wheat,Weight Loss
+Faraz,73,Male,176,98,Light,Allergy: Wheat,Weight Loss
+Saif,63,Male,174,61,Light,Allergy: Wheat,Weight Loss
+Rayyan,64,Male,173,84,Moderate,Allergy: Seafood,Maintain
+Zainab,53,Female,157,59,Moderate,Allergy: Wheat,Weight Gain
+Rabia,53,Male,175,90,Moderate,Allergy: Wheat,Weight Loss
+Fahad,46,Male,169,60,Moderate,Allergy: Nuts,Maintain
+Ahmed,65,Male,181,81,Light,Diabetes,Weight Loss
+Areeba,53,Male,167,70,Light,Allergy: Seafood,Maintain
+Omar,33,Male,164,69,Active,Hypertension,Weight Gain
+Khadija,20,Male,177,82,Moderate,Diabetes,Weight Loss
+Rizwan,64,Female,167,86,Light,None,Maintain
+Azlan,27,Male,171,69,Light,Diabetes,Maintain
+Yusuf,24,Female,167,71,Sedentary,Diabetes,Weight Loss
+Komal,71,Female,150,64,Light,None,Weight Loss
+Asma,62,Male,178,58,Active,Diabetes,Weight Loss
+Shayan,60,Female,145,53,Light,Allergy: Egg,Maintain
+Rehan,73,Male,179,65,Light,Hypertension,Maintain
+Huzaifa,50,Female,158,49,Active,Allergy: Wheat,Maintain
+Azlan,61,Male,172,57,Active,Allergy: Seafood,Weight Loss
+Huzaifa,68,Male,155,56,Moderate,Diabetes,Weight Loss
+Hafsa,56,Female,165,58,Moderate,Allergy: Seafood,Weight Loss
+Ayesha,47,Male,171,63,Active,Hypertension,Weight Loss
+Sara,75,Male,172,58,Moderate,Allergy: Wheat,Maintain
+Omar,30,Male,172,92,Moderate,Diabetes,Maintain
+Hussain,21,Female,159,63,Moderate,Allergy: Seafood,Weight Loss
+Komal,41,Female,154,45,Sedentary,Allergy: Wheat,Maintain
+Sana,28,Male,163,73,Moderate,Diabetes,Weight Loss
+Anas,57,Male,167,91,Active,Allergy: Egg,Maintain
+Fizan,54,Male,160,82,Active,Allergy: Mushroom,Weight Loss
+Noman,62,Male,165,78,Active,Diabetes,Weight Gain
+Fahad,35,Male,173,83,Light,Allergy: Egg,Weight Gain
+Anaya,54,Female,154,64,Light,Hypertension,Weight Loss
+Talha,58,Female,154,60,Moderate,Hypertension,Weight Loss
+Hoorain,62,Male,169,59,Moderate,Allergy: Nuts,Weight Loss
+Eman,59,Female,166,73,Light,Allergy: Wheat,Weight Gain
+Fizan,61,Male,166,58,Active,Allergy: Wheat,Weight Loss
+Fahad,44,Female,153,51,Active,Allergy: Egg,Maintain
+Khansa,29,Female,154,65,Light,Allergy: Nuts,Weight Loss
+Zara,57,Male,173,59,Moderate,Diabetes,Weight Loss
+Taha,29,Male,162,68,Active,Allergy: Nuts,Weight Loss
+Rizwan,35,Male,179,101,Active,Diabetes,Weight Loss
+Mahad,49,Female,156,79,Light,Allergy: Nuts,Weight Loss
+Dua,69,Male,172,74,Sedentary,Allergy: Mushroom,Weight Gain
+Hira,53,Male,173,97,Active,Diabetes,Maintain
+Eesa,21,Female,164,86,Active,Allergy: Wheat,Maintain
+Shahmeer,38,Male,180,83,Active,Allergy: Mushroom,Maintain
+Sameer,66,Male,175,66,Light,None,Weight Loss
+Salman,56,Female,151,54,Active,Allergy: Seafood,Weight Loss
+Shayan,37,Female,165,64,Moderate,Allergy: Seafood,Weight Loss
+Asma,65,Female,149,70,Moderate,Diabetes,Maintain
+Shahzaib,60,Male,177,59,Sedentary,Allergy: Wheat,Maintain
+Saad,53,Male,164,58,Moderate,Allergy: Mushroom,Weight Loss
+Talha,22,Female,146,49,Light,Diabetes,Maintain
+Zara,68,Male,166,84,Active,Hypertension,Weight Loss
+Fatima,24,Female,152,49,Active,Allergy: Egg,Maintain
+Aiman,43,Male,182,108,Sedentary,Diabetes,Weight Loss
+Mariam,65,Female,146,63,Active,None,Maintain
+Iqra,59,Female,157,59,Moderate,Allergy: Wheat,Weight Loss
+Azlan,56,Female,154,45,Active,Allergy: Egg,Maintain
+Usama,73,Male,186,93,Active,Allergy: Seafood,Weight Gain
+Omar,43,Male,170,52,Moderate,Allergy: Wheat,Weight Gain
+Sana,53,Female,167,85,Active,Allergy: Seafood,Maintain
+Rayyan,64,Male,173,68,Moderate,Hypertension,Weight Gain
+Anaya,44,Female,158,72,Light,None,Maintain
+Mahad,21,Female,166,88,Moderate,Allergy: Seafood,Weight Loss
+Fatima,57,Female,155,51,Moderate,Allergy: Mushroom,Weight Loss
+Asma,33,Female,167,58,Moderate,Allergy: Mushroom,Maintain
+Haris,67,Male,170,65,Moderate,Diabetes,Weight Loss
+Arham,26,Male,162,74,Light,Diabetes,Weight Loss
+Zainab,34,Female,152,44,Light,None,Weight Loss
+Mariam,44,Male,182,82,Sedentary,Hypertension,Weight Loss
+Shahmeer,64,Female,164,83,Light,Diabetes,Maintain
+Shahzaib,73,Female,161,84,Moderate,Allergy: Seafood,Weight Loss
+Abdullah,22,Female,159,53,Active,None,Weight Loss
+Mahnoor,66,Female,167,66,Sedentary,Diabetes,Maintain
+Farhan,69,Male,177,86,Light,Allergy: Egg,Weight Gain
+Hamza,24,Male,174,63,Light,Diabetes,Maintain
+Abdullah,50,Male,186,94,Moderate,Allergy: Wheat,Maintain
+Eesa,28,Female,156,63,Light,Allergy: Egg,Maintain
+Asma,22,Male,164,65,Moderate,Allergy: Egg,Weight Loss
+Azlan,63,Female,166,59,Light,Allergy: Wheat,Weight Loss
+Haris,69,Female,158,74,Light,Allergy: Nuts,Weight Loss
+Sara,34,Female,169,53,Moderate,Diabetes,Weight Loss
+Zubair,56,Male,162,86,Moderate,Allergy: Wheat,Maintain
+Sarmad,56,Male,174,87,Light,Diabetes,Weight Gain
+Eesa,44,Male,169,71,Moderate,Diabetes,Maintain
+Omar,58,Female,176,75,Active,Diabetes,Weight Loss
+Shayan,59,Female,165,88,Active,Allergy: Egg,Maintain
+Ammar,69,Male,182,83,Light,Diabetes,Weight Loss
+Mahnoor,45,Female,157,63,Light,Allergy: Mushroom,Weight Loss
+Noman,42,Female,153,58,Sedentary,Allergy: Seafood,Weight Loss
+Sarmad,38,Male,168,91,Moderate,Allergy: Nuts,Weight Loss
+Sara,60,Female,159,53,Moderate,Diabetes,Weight Loss
+Azlan,23,Male,176,61,Active,Allergy: Wheat,Weight Loss
+Rehan,42,Female,151,45,Light,Allergy: Seafood,Maintain
+Taha,21,Female,173,97,Moderate,Allergy: Seafood,Weight Loss
+Hira,63,Male,179,84,Light,Diabetes,Weight Loss
+Sumaira,57,Male,180,106,Light,Allergy: Wheat,Weight Loss
+Huzaifa,38,Male,174,88,Moderate,Hypertension,Weight Loss
+Ammar,28,Female,163,68,Moderate,Allergy: Seafood,Maintain
+Kashif,56,Female,157,65,Sedentary,Diabetes,Weight Loss
+Yusra,59,Female,159,71,Light,Allergy: Egg,Weight Loss
+Aneeza,52,Female,156,49,Moderate,Hypertension,Maintain
+Noman,28,Female,163,56,Active,Allergy: Mushroom,Weight Loss
+Komal,28,Female,165,78,Sedentary,Allergy: Mushroom,Weight Loss
+Naveed,66,Female,148,60,Sedentary,Hypertension,Weight Loss
+Kamran,38,Female,145,69,Light,Allergy: Seafood,Weight Loss
+Hoorain,44,Female,163,48,Active,Allergy: Nuts,Weight Loss
+Zayan,47,Female,157,78,Light,Allergy: Egg,Maintain
+Arham,37,Female,156,65,Light,Hypertension,Weight Loss
+Hina,46,Male,167,67,Active,Hypertension,Weight Loss
+Fahad,59,Female,157,48,Active,Hypertension,Weight Loss
+Sarmad,50,Female,155,70,Sedentary,Diabetes,Weight Loss
+Hussain,72,Female,169,54,Active,Allergy: Egg,Weight Loss
+Hassan,37,Female,156,58,Light,Allergy: Wheat,Weight Loss
+Ibrahim,41,Female,152,74,Light,Hypertension,Weight Loss
+Asma,34,Female,170,80,Active,Hypertension,Maintain
+Fatima,71,Female,158,68,Active,Diabetes,Weight Loss
+Zeeshan,53,Male,178,90,Sedentary,Diabetes,Weight Gain
+Fahad,36,Female,159,52,Sedentary,Allergy: Seafood,Maintain
+Yusuf,26,Male,170,56,Light,Hypertension,Weight Loss
+Fatima,41,Female,164,76,Moderate,None,Weight Loss
+Ayaan,42,Female,155,52,Moderate,Allergy: Seafood,Weight Loss
+Shayan,42,Male,179,68,Moderate,Allergy: Wheat,Weight Gain
+Laiba,54,Male,159,67,Sedentary,Allergy: Egg,Weight Loss
+Ayesha,62,Female,159,79,Moderate,Diabetes,Weight Loss
+Sameer,40,Female,162,75,Active,Diabetes,Maintain
+Laiba,48,Female,163,82,Sedentary,Allergy: Wheat,Weight Loss
+Noor,52,Male,160,49,Moderate,Diabetes,Weight Loss
+Aiman,35,Male,174,95,Active,Hypertension,Weight Loss
+Laiba,70,Male,176,71,Moderate,Hypertension,Maintain
+Hamza,55,Female,160,57,Active,Allergy: Seafood,Maintain
+Shahzaib,27,Male,170,65,Moderate,Hypertension,Weight Loss
+Zainab,48,Male,173,71,Moderate,Diabetes,Weight Loss
+Yusra,42,Female,157,56,Light,Diabetes,Weight Loss
+Rayyan,61,Female,165,66,Light,Hypertension,Weight Loss
+Komal,73,Male,158,52,Moderate,Allergy: Seafood,Weight Gain
+Sana,50,Male,172,61,Active,Allergy: Seafood,Weight Loss
+Naveed,47,Female,155,68,Moderate,Allergy: Seafood,Weight Loss
+Ibrahim,56,Male,161,61,Active,Diabetes,Weight Loss
+Omar,73,Male,169,62,Moderate,Diabetes,Weight Loss
+Zainab,70,Male,168,65,Light,Allergy: Mushroom,Weight Loss
+Fizan,34,Female,156,44,Moderate,Diabetes,Maintain
+Aiman,62,Male,161,49,Active,Allergy: Nuts,Weight Loss
+Talha,64,Female,159,52,Moderate,Diabetes,Weight Loss
+Nida,42,Female,157,48,Sedentary,Hypertension,Weight Loss
+Aiman,39,Female,157,56,Active,Diabetes,Weight Loss
+Eman,50,Female,154,78,Light,Allergy: Egg,Weight Loss
+Saad,60,Male,182,73,Light,Hypertension,Weight Loss
+Sana,73,Female,157,79,Light,Diabetes,Maintain
+Iqra,61,Male,173,92,Light,Allergy: Nuts,Weight Loss
+Noman,69,Female,155,55,Active,None,Maintain
+Fatima,23,Male,172,90,Moderate,Allergy: Egg,Weight Loss
+Usman,68,Male,166,81,Active,Allergy: Seafood,Weight Loss
+Khadija,57,Male,166,71,Sedentary,Diabetes,Maintain
+Shahmeer,51,Female,159,61,Active,Allergy: Wheat,Weight Loss
+Hamza,74,Female,173,59,Light,Allergy: Seafood,Weight Loss
+Taha,37,Female,159,52,Light,Hypertension,Maintain
+Zayan,73,Female,170,76,Active,None,Weight Loss
+Noman,55,Female,156,49,Light,Allergy: Seafood,Weight Loss
+Rabia,23,Male,182,97,Active,Allergy: Egg,Weight Loss
+Khadija,52,Male,174,56,Light,Allergy: Egg,Maintain
+Hoorain,45,Female,159,72,Sedentary,Allergy: Wheat,Maintain
+Komal,38,Female,159,54,Active,Diabetes,Weight Loss
+Zara,66,Female,166,65,Light,Allergy: Nuts,Weight Loss
+Junaid,40,Female,158,50,Active,Allergy: Nuts,Weight Gain
+Abdullah,70,Female,171,70,Light,Allergy: Seafood,Weight Gain
+Iqra,36,Male,177,81,Sedentary,Hypertension,Weight Loss
+Shahid,58,Male,167,70,Moderate,Diabetes,Weight Loss
+Hassan,23,Male,179,74,Active,Diabetes,Weight Loss
+Hussain,62,Male,166,89,Light,Allergy: Nuts,Weight Gain
+Rayyan,36,Male,164,71,Active,Allergy: Nuts,Weight Loss
+Arham,38,Male,153,65,Light,Diabetes,Weight Loss
+Zeeshan,65,Male,165,67,Active,Hypertension,Weight Loss
+Hira,27,Female,163,54,Active,Allergy: Nuts,Weight Gain
+Mahnoor,73,Female,160,58,Sedentary,Allergy: Egg,Weight Loss
+Aiman,38,Female,153,43,Active,Diabetes,Weight Loss
+Sara,63,Male,168,78,Light,Diabetes,Weight Loss
+Shahid,73,Female,171,90,Light,Allergy: Nuts,Weight Gain
+Bilal,57,Male,176,93,Active,Diabetes,Weight Loss
+Azlan,63,Male,180,86,Light,Diabetes,Weight Loss
+Shahzaib,64,Female,169,85,Sedentary,Allergy: Seafood,Weight Gain
+Mariam,18,Male,167,74,Active,Allergy: Wheat,Maintain
+Zainab,69,Female,157,57,Light,Diabetes,Weight Loss
+Hina,71,Male,172,59,Active,Hypertension,Weight Loss
+Shayan,30,Male,168,65,Sedentary,Allergy: Egg,Maintain
+Asma,70,Male,177,93,Active,None,Weight Loss
+Mahnoor,66,Male,171,77,Light,Allergy: Wheat,Maintain
+Sara,50,Female,167,91,Sedentary,Hypertension,Maintain
+Anaya,35,Female,164,64,Active,Allergy: Nuts,Weight Loss
+Fizan,20,Female,157,45,Light,Allergy: Wheat,Maintain
+Eesa,25,Male,173,81,Moderate,Allergy: Mushroom,Weight Gain
+Yusra,58,Female,152,67,Moderate,Hypertension,Weight Loss
+Zubair,60,Male,161,67,Light,Allergy: Mushroom,Weight Loss
+Usama,29,Female,165,75,Light,Allergy: Wheat,Maintain
+Azlan,46,Male,183,76,Sedentary,Allergy: Mushroom,Maintain
+Areeba,47,Female,158,70,Light,Allergy: Mushroom,Weight Loss
+Hafsa,30,Male,169,66,Moderate,Allergy: Egg,Weight Loss
+Dua,59,Male,181,101,Light,Allergy: Wheat,Weight Loss
+Zubair,67,Male,170,71,Moderate,Hypertension,Maintain
+Areeba,30,Male,167,91,Active,Allergy: Seafood,Maintain
+Mariam,49,Female,153,75,Light,Hypertension,Maintain
+Hoorain,67,Female,148,69,Light,Allergy: Egg,Weight Gain
+Sumaira,32,Male,177,92,Moderate,Diabetes,Weight Loss
+Ahmed,72,Male,184,87,Moderate,Hypertension,Weight Loss
+Sumaira,55,Male,165,73,Moderate,Allergy: Wheat,Weight Gain
+Zayan,30,Female,169,92,Light,Allergy: Wheat,Weight Loss
+Shahid,49,Female,154,64,Sedentary,Allergy: Wheat,Weight Loss
+Ahmed,65,Male,170,71,Moderate,Allergy: Wheat,Weight Loss
+Ibrahim,22,Female,161,55,Moderate,Diabetes,Weight Loss
+Danish,20,Female,151,45,Light,Allergy: Wheat,Weight Loss
+Hoorain,42,Male,171,83,Active,Allergy: Nuts,Weight Loss
+Sara,41,Female,154,60,Moderate,Allergy: Wheat,Maintain
+Haris,42,Male,167,66,Moderate,Allergy: Seafood,Maintain
+Shahzaib,21,Male,181,72,Light,None,Maintain
+Mahnoor,65,Female,151,43,Light,Hypertension,Maintain
+Shahid,32,Male,167,63,Light,Allergy: Wheat,Maintain
+Manail,63,Male,177,75,Light,Allergy: Egg,Maintain
+Zainab,57,Female,159,52,Active,Allergy: Egg,Weight Loss
+Farhan,53,Female,154,68,Light,Allergy: Wheat,Maintain
+Sumaira,74,Female,158,76,Sedentary,Allergy: Seafood,Weight Loss
+Fahad,32,Female,160,68,Light,Diabetes,Weight Loss
+Hania,23,Male,166,83,Light,Allergy: Egg,Weight Loss
+Bilal,61,Female,149,52,Active,Allergy: Wheat,Weight Loss
+Adnan,21,Male,167,71,Active,Hypertension,Weight Loss
+Zayan,64,Female,163,60,Active,Allergy: Seafood,Weight Gain
+Hoorain,74,Female,145,53,Moderate,Allergy: Wheat,Weight Loss
+Areeba,19,Male,171,79,Moderate,Diabetes,Weight Gain
+Rehan,37,Female,158,78,Active,Diabetes,Maintain
+Laiba,46,Male,188,73,Moderate,None,Maintain
+Azlan,55,Male,190,116,Light,Hypertension,Weight Loss
+Sana,41,Male,179,65,Sedentary,Diabetes,Maintain
+Zara,52,Female,149,54,Light,Allergy: Seafood,Weight Loss
+Iqra,64,Female,149,73,Moderate,None,Weight Loss
+Salman,24,Female,158,69,Moderate,Diabetes,Weight Loss
+Huzaifa,30,Male,174,59,Light,Allergy: Seafood,Weight Loss
+Bilal,46,Female,152,48,Moderate,Diabetes,Maintain
+Sumaira,47,Male,163,77,Light,Diabetes,Weight Gain
+Khadija,28,Female,167,66,Moderate,Diabetes,Maintain
+Hira,57,Male,175,85,Active,Allergy: Wheat,Weight Loss
+Usama,19,Male,182,98,Sedentary,Allergy: Seafood,Weight Loss
+Yusra,56,Female,169,61,Light,Allergy: Seafood,Weight Gain
+Huda,47,Male,174,65,Active,Diabetes,Weight Loss
+Hamza,52,Female,145,60,Moderate,Allergy: Wheat,Weight Loss
+Noman,54,Male,171,78,Active,Allergy: Mushroom,Weight Loss
+Muhammad,66,Female,166,75,Light,Hypertension,Weight Loss
+Yusuf,68,Female,162,81,Active,Allergy: Wheat,Weight Loss
+Danish,56,Male,169,73,Sedentary,Diabetes,Weight Loss
+Sarmad,27,Male,172,80,Sedentary,Allergy: Wheat,Weight Loss
+Farhan,63,Male,191,67,Active,Allergy: Seafood,Weight Loss
+Areeba,54,Male,188,85,Active,Allergy: Nuts,Maintain
+Bilal,61,Male,175,101,Moderate,Allergy: Seafood,Maintain
+Zayan,55,Male,167,85,Light,Hypertension,Maintain
+Asma,71,Male,175,94,Sedentary,Allergy: Egg,Weight Loss
+Ahmed,25,Male,167,83,Moderate,Allergy: Seafood,Weight Loss
+Zara,18,Male,175,68,Light,Hypertension,Maintain
+Aleena,40,Female,160,65,Moderate,Hypertension,Weight Loss
+Ammar,40,Male,174,97,Moderate,Hypertension,Weight Gain
+Dua,56,Female,152,63,Active,Allergy: Wheat,Maintain
+Azlan,57,Male,161,78,Light,Allergy: Mushroom,Weight Loss
+Fahad,24,Male,178,101,Moderate,Allergy: Egg,Weight Gain
+Rabia,38,Male,174,100,Moderate,Allergy: Mushroom,Weight Loss
+Ibrahim,71,Female,156,73,Active,Diabetes,Maintain
+Ammar,40,Male,175,66,Active,Hypertension,Maintain
+Ammar,28,Male,181,70,Active,Allergy: Egg,Weight Loss
+Ayaan,64,Male,172,62,Active,Allergy: Egg,Weight Loss
+Abdullah,26,Male,170,66,Active,None,Weight Gain
+Farhan,63,Female,165,73,Moderate,Diabetes,Weight Loss
+Shahmeer,75,Female,153,47,Light,Allergy: Nuts,Weight Gain
+Laiba,74,Female,168,76,Active,Diabetes,Weight Gain
+Noor,62,Female,152,61,Light,Hypertension,Weight Loss
+Sameer,56,Male,168,76,Moderate,Allergy: Mushroom,Maintain
+Ammar,39,Female,153,70,Moderate,Diabetes,Weight Loss
+Mariam,64,Male,170,53,Sedentary,Hypertension,Weight Loss
+Hafsa,21,Female,163,53,Moderate,Allergy: Seafood,Weight Loss
+Ayesha,74,Male,177,96,Light,Diabetes,Maintain
+Hamza,61,Male,176,69,Light,Allergy: Seafood,Maintain
+Mahnoor,22,Female,160,72,Light,Allergy: Mushroom,Weight Loss
+Yusra,20,Female,166,71,Light,Allergy: Wheat,Weight Loss
+Nida,68,Male,170,91,Active,Hypertension,Weight Loss
+Rehan,63,Female,154,61,Sedentary,Hypertension,Maintain
+Rayyan,35,Male,166,61,Light,Allergy: Seafood,Weight Loss
+Zayan,61,Male,170,88,Sedentary,None,Weight Loss
+Usama,74,Male,172,91,Light,Diabetes,Weight Loss
+Imran,29,Female,156,77,Moderate,Allergy: Seafood,Weight Loss
+Sara,35,Female,158,46,Sedentary,Allergy: Seafood,Weight Gain
+Asma,37,Female,153,68,Moderate,Allergy: Wheat,Weight Gain
+Naveed,72,Male,175,66,Moderate,None,Weight Loss
+Azlan,66,Female,148,48,Moderate,Diabetes,Weight Loss
+Zubair,23,Male,169,92,Moderate,Allergy: Egg,Weight Loss
+Junaid,68,Female,158,81,Light,Allergy: Seafood,Maintain
+Khadija,69,Female,155,74,Light,None,Weight Gain
+Ahmed,33,Female,165,76,Light,Diabetes,Weight Loss
+Salman,75,Male,178,85,Light,Hypertension,Weight Loss
+Kamran,71,Male,175,66,Active,Diabetes,Weight Loss
+Khadija,24,Male,164,55,Active,Allergy: Seafood,Maintain
+Arham,54,Female,164,87,Light,Allergy: Mushroom,Weight Loss
+Hussain,37,Female,157,76,Moderate,Hypertension,Weight Loss
+Azlan,26,Male,177,78,Sedentary,Allergy: Wheat,Weight Loss
+Sarmad,46,Male,174,68,Sedentary,Hypertension,Weight Loss
+Saif,37,Male,167,80,Moderate,Diabetes,Weight Gain
+Sameer,30,Male,170,66,Active,Allergy: Wheat,Weight Loss
+Huzaifa,34,Female,161,64,Light,Allergy: Mushroom,Maintain
+Fahad,27,Female,145,55,Sedentary,Hypertension,Maintain
